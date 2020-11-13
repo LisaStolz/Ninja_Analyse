@@ -1,0 +1,2 @@
+ 
+grep -Po '((alt=|image-"><a href=)"(.*?)"|(\d\d.\d\d.\d\d\d\d))' sport_de_Atleten.txt > Atleten_Infos.txt
