@@ -1,0 +1,58 @@
+Name	Pfeil-Sprung	Cargo-Netz mit Bügeln	Domino-Weg	Schwingende Körbe	Tunnel-Sprung 2.0	Himmelsleiter	Hangel-Kurven	Wand	Mega-Wand	Power Tower 	Zeit
+Kim Marschner      	1	1	1	1	1	1	 1	1		1	1:45.50m
+Simon Brunner      	1	1	1	1	1	1	 1	1		0	2:21.00m
+Malte Komm     	1	1	1	1	1	1	1	1	  	3:33.20m
+Michael Bräuer      	1	1	1	1	1	 1	1	1			3:52.90m
+David Eilenstein      	1	1	1	1	1	 1	1	1			4:04.60m
+Lasse Von Freier      	1	1	1	1	1	 1	1	1			4:29.30m
+Moritz Hans   	1	1	1	1	1	1	1		1 	5:08.50m
+Krister Kröll      	1	1	1	1	1	1	 1	1			5:20.70m
+Philipp Hans   	1	1	1	1	1	1	1	1 		5:23.70m
+Tatjana Holz   	1	1	1	1	1	1	0	  		3:28.50m
+Stefan Angermeier      	1	1	1	1	 1	1	0				4:14.70m
+Alexander Frisch      	1	1	1	1	1	 1	0				5:00.60m
+Jörn Kröll   	1	1	1	1	1	1	0	  		4:06.80m
+Lukas Dauenheimer      	1	1	1	1	 1	1	0				3:42.80m
+Christian Harmat   	1	1	1	1	1	 1	0				1:50.20m
+Daniel Schmitt      	1	1	1	1	1	0	  			2:03.00m
+Mahdi Limper   	1	1	1	1	0					  1:22.40m
+Florian Böbel      	1	1	1	1	0			  		1:25.80m
+Fabio Helmrich      	1	1	1	1	0			  		1:39.30m
+Uwe Hückmann      	1	1	1	1	0				  	1:51.60m
+Andrea Forstmayr      	1	1	1	1	0	  				2:51.30m
+Alina Schwärzer      	1	1	1	1	0	  				3:03.40m
+Georgi Damyanov      	1	1	1	1	0		  			3:25.90m
+Johnny Lembke      	1	1	1	1	0				  	1:31.90m
+Hanjo Fritzsche      	1	1	1	1	0		  			1:48.10m
+Sophia Grimm   	1	1	1	1	0					  2:31.40m
+Michael Kastner      	1	1	1	1	0		  			2:45.90m
+Patrick Grafenauer      	1	1	1	1	0 					2:47.80m
+Philip Tausch      	1	1	1	1	0				  	1:41.70m
+Gordon Bieling      	1	1	1	0					  	1:16.90m
+Elsa Culemann      	1	1	1	0						  1:27.20m
+Arash Vaezi   	1	1	1	0							1:37.80m
+Tobias Eigen   	1	1	0								56.06s
+Sebastian Vossler      	1	1	0				  			27.33s
+Ronja Hoffmann      	1	1	0							  44.00s
+Gunnar Sewald      	1	1	0								45.80s
+Holger Lotz   	1	0								  10.15s
+Johannes Zimmermann      	1	0				  				14.17s
+Theresa Bleibinhaus      	1	0				  				15.17s
+Holger Schüßler      	1	0						  		15.58s
+Sarah Schüßler      	1	0							  	16.18s
+Sina Endejann      	1	0									18.17s
+Peter Heydemann      	1	0								  19.92s
+Jessica Bertermann      	1	0					  			21.78s
+Lisa Weishaupt      	1	0									23.64s
+Marcel Kaeding      	1	0									28.46s
+Anne Bartelt   	1	0								  29.65s
+Toni Zeus     	1	0									30.52s
+Jessica Weidemann      	1	0						  		31.92s
+Josefine Kuhn      	1	0									40.49s
+Margit Staudinger      	1	0						  		52.28s
+Julia Ernhofer      	0										11.42s
+Andrea Meßner      	0										11.85s
+Manuel Langhans      	0										18.18s
+Hussein Chahrour      	0									  22.39s
+Özcan Dag     	0										36.62s
+Jeffrey Dörpinghaus      	0					  				3.06s  

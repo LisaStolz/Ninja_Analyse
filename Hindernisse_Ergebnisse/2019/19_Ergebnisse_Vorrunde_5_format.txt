@@ -1,0 +1,40 @@
+Name	Fünfsprung	Großer Pendel-Stamm	Doppelte Stammrolle	Sprungstange	Einraster	Wand	Mega-Wand	Zeit
+Thomas Oppermann      	1	1	1	1	1	1 	2:45.26m
+Alex Grunwald      	1	1	1	1	1	1		3:14.89m
+Marius Holzinger      	1	1	1	1	1	1 	3:18.70m
+Christian Harmat   	1	1	1	1	1		 1	3:35.95m
+Florian Böbel      	1	1	1	1	1	1	  3:41.12m
+Christian Kirstges      	1	1	1	1	1 		1	3:55.68m
+Philipp Hans   	1	1	1	1	1	1		3:57.90m
+Moritz Hans   	1	1	1	1	1		1	4:02.03m
+Harald Aichner   	1	1	1	1	1	1	  4:16.40m
+Jonathan Jung      	1	1	1	1	0			
+Artur Sommer   	1	1	1	0				
+Benedikt Last      	1	1	1	0				
+Kim Komnenic   	1	1	1	0				
+Max Staats     	1	1	1	0				
+Lilli Kiesgen      	1	1	1	0				
+Eric Krüger   	1	1	1	0				
+Julia Koch     	1	1	1	0				
+Marcel Kaeding      	1	1	1	0				
+Daniel Springer      	1	1	1	0				
+Marlene Kowalik      	1	1	1	0				
+Alexander Worgitzki      	1	1	1	0 			
+Michelle Reichrath      	1	1	1	0	  		
+Johannes Mann      	1	1	1	0				
+Dennis Decker      	1	1	1	0				
+Stefanie Drach      	1	1	1	0				
+Sandra Lang   	1	1	1	0				
+Kevin Addamiano      	1	0						
+Steven Hofmann      	1	0						
+Marco Addamiano      	1	0						
+Miriam Schmidt      	1	0						
+Stephan Fricke      	1	0						
+Daniel Decker      	1	0						
+Peter Schwab   	1	0						
+Dennis Kraus   	1	0						
+Charlotte Frank      	1	0						
+Rene Poprawa   	1	0						
+Tiffany Eidner      	1	0						
+Marion Luck   	1	0						 
+Malte Sehmer   	1	0						  

@@ -1,0 +1,61 @@
+Name	Pfeil-Sprung	Cargo-Netz mit Stange	Chaos-Bälle	Schwingende Körbe	Tunnel-Sprung 2.0	Himmelsleiter	Zeit-Sprung	Wand	Mega-Wand	Power Tower	Zeit
+Milan Schirowski      	1	1	1	1	1	 1	1	1		0	2:25.60m
+Daniel Gerber      	1	1	1	1	1	1	 1	1		1	2:27.80m
+Alex Grunwald      	1	1	1	1	1	1	 1	1			2:30.90m
+Enrico Meister      	1	1	1	1	1	1	0 			2:54.10m
+Eren Eski     	1	1	1	1	1	1	0				2:29.80m
+Christian Balkheimer      	1	1	1	 1	1	1	0				2:34.60m
+Moritz Andelfinger      	1	1	1	1	 1	1	0				2:44.10m
+Benedikt Last      	1	1	1	1	1	1	0 			3:20.60m
+Marius Holzinger      	1	1	1	1	1	 1	0				3:54.50m
+Benjamin Schmidt      	1	1	1	1	1	 1	0				2:08.40m
+Christoph Galle      	1	1	1	1	1	 1	0				2:40.70m
+Bastian Hauk   	1	1	1	1	1	1	0	  		3:03.40m
+Patrick Basler      	1	1	1	1	1	1	0 			3:06.60m
+Dennis Leiber      	1	1	1	1	1	1	0 			3:17.50m
+Bérenger Florence      	1	1	1	1	 1	1	0				3:22.30m
+Markus Malle   	1	1	1	1	1	1	0	  		3:57.30m
+Tobias Holz   	1	1	1	1	1	0				  2:00.10m
+Stephan Röpcke      	1	1	1	1	1	0 				3:35.40m
+Raffael Schellenberg      	1	1	1	 1	0						3:21.20m
+Philipp Jürgen      	1	1	1	1	0		  			1:00.50m
+Felix Flieger      	1	1	1	1	0				  	1:28.70m
+Nils Bürger   	1	1	1	1	0					  1:44.70m
+Stephan Koitek      	1	1	1	1	0			  		1:55.90m
+Stefanie Drach      	1	1	1	1	0			  		3:13.60m
+Gabriel Pediconi      	1	1	1	0			  			1:46.50m
+Dean Tanwani   	1	1	1	0							1:07.90m
+Francois Lagalante      	1	1	1	0	  					1:10.20m
+Julia Koch     	1	1	1	0						  1:19.20m
+Dimitrios Papadopoulos      	1	1	 1	0							1:25.90m
+Lea Fortin     	1	1	1	0						  2:50.50m
+Oxana Wachter      	1	1	0								1:03.80m
+Jasmin Lehmann      	1	1	0							  1:41.90m
+Patrick Mengel      	1	1	0							  1:51.00m
+Lukas Kaufmann      	1	1	0							  22.04s
+Sven Wilhelm   	1	1	0								28.24s
+Rainer Leiber      	1	1	0								43.16s
+Tim Kruk     	1	1	0								53.68s
+Patrick Apfelthaler      	1	1	0		  					58.74s
+Mario Gimbel   	1	1	0								59.40s
+Lilli Kiesgen      	1	1	0								1:10.40m
+Ricardo Lopez Lozano      	1	1	0	  						1:29.80m
+Sven Perez     	1	1	0							  1:41.80m
+Tiberius Ignat      	1	1	0							  38.52s
+Jekaterina Konanchuk      							  			38.87s
+Christian Eier      	1	1	0							  59.60s
+Annina Lehmann      	1	1	0							  1:01.70m
+Sabina Kofler      	1	1	0								2:02.70m
+Carsten Mengel      	1	0									22.46s
+Leon Krückmeyer      	1	0							  	23.19s
+Lisa Unger     	1	0									35.26s
+Julia Biebl   	1	0								  1:01.80m
+Philipp Altenhofen      	0							  		9.69s
+Regina Strunz      	0									  11.22s
+Nele Geis     	0										13.09s
+Ramona Bergmeister      	0							  		14.62s
+Bianca Giering      	0										14.96s
+Mehmet Topyürek      	0									  35.65s
+Ahmet Kurt     	0										5.75s
+Lynne Winkler      	0									  5.55s
+Nikki Adler   	0										2.03s  

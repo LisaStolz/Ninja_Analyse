@@ -1,0 +1,18 @@
+Name	Pfeil-Sprung	Schwing-Flügel	Himmelsleiter	Hangelwellen	Kamin mit Klappen	Zeit
+Gary Hines   	1	1	1	0		
+Felix Eckart   	1	1	1	0		
+Daniel Gerber      	1	1	1	0		
+Joel Mattli      	1	1	1	0	
+Max Sprenger   	1	1	1	0		
+Niklas Weber   	1	1	1	0		
+Benedikt Sigmund      	1	1	1	0		
+Enrico Meister      	1	1	1	0		
+Lukas Kilian   	1	1	1	0		
+Michael Bräuer      	1	1	1	0		
+Arleen Schüßler      	1	1	0			
+Christian Lang      	1	1	0			
+Alix Arndt     	1	0				
+Lukas Kern     	1	0				
+Sladjan Djulabic      	1	0				
+Elsa Culemann      	1	0				
+Tim Reuber     	1	0				  

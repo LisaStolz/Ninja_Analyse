@@ -1,0 +1,28 @@
+Name	Fünfsprung	Kletter-Stämme	Block-Lauf 2.0	Schwing-Flügel	Radwechsel	Wand	Chaos-Bälle	Spaziergang	Kamin mit Klappen	Zeit
+Benjamin Reichmann      	1	1	1	1	1 1	1	1	1	3:40.32m
+Oliver Edelmann      	1	1	1	1	1	1 1	1	1	3:48.43m
+Christian Kirstges      	1	1	1	1	1 1	1	1	1	3:49.72m
+René Casselly      	1	1	1	1	1	1	1 1	1	3:52.89m
+Simon Brunner      	1	1	1	1	1	1	1 1	1	4:15.33m
+Max Sprenger   	1	1	1	1	1	1	1	1 1	4:16.47m
+Alexander Wurm      	1	1	1	1	1	1	1 1	1	4:18.38m
+Moritz Hans   	1	1	1	1	1	1	1	1 1	4:21.12m
+Felix Eckart   	1	1	1	1	1	1	1	1 1	4:23.10m
+Samuel Dufner      	1	1	1	1	1	1	1 1	1	4:25.43m
+Manuel Eder   	1	1	1	1	1	1	1	1 1	4:34.40m
+Yasin El Azzazy      	1	1	1	1	1	1 1	1	1	4:34.86m
+Philipp Hans   	1	1	1	1	1	1	1	1 1	4:35.60m
+Joel Mattli   	1	1	1	1	1	1	1	1 1	4:36.42m
+Tobias Eberle      	1	1	1	1	1		1	1 1	4:39.20m
+Max Prinz     	1	1	1	1	1	1	1	1	1 4:40.95m
+Milan Schirowski      	1	1	1	1	1	1 1	1	1	4:43.48m
+Herwig Natmessnig      	1	1	1	1	1 1	1	1	1	4:49.37m
+Jun Kim     	1	1	1	1	1	1	1	1	1	4:53.56m
+Marian Lotze   	1	1	1	1	0					
+Michael Siegmund      	1	1	1	1	0	  			
+Arleen Schüßler      	1	1	1	1	0 				
+Daniel Schmidt      	1	1	1	1	0					
+Karim El Azzazy      	1	1	1	0						
+Adrian Wullweber      	1	1	1	0			  		
+Philipp Boy     	1	1	1	0			  		
+Stefanie Noppinger      	1	1	1	0	  				  

@@ -1,0 +1,39 @@
+Name	Fünfsprung	Pendel-Sprung	Doppelte Stammrolle	Ring-Raster	Einraster	Wand	Mega-Wand	Zeit
+Jun Kim     	1	1	1	1	1	1		2:11.93m
+Giovanni Ertl      	1	1	1	1	1		1	 2:26.26m
+Till Ebener   	1	1	1	1	1	1	  2:47.48m
+Marian Lotze   	1	1	1	1	1	1		2:49.30m
+Milan Schirowski      	1	1	1	1	1	1 	2:56.88m
+Quang-Lam Ngo      	1	1	1	1	1	1		3:17.51m
+Sven Jakobs   	1	1	1	1	1	1	  3:20.84m
+Norbert Schwarz      	1	1	1	1	1	1 	3:29.86m
+Jonathan Genck      	1	1	1	1	1	1	  3:42.00m
+Stefan Angermeier      	1	1	1	1	1	1		3:43.35m
+Uwe Weitzer   	1	1	1	1	1	1	  3:53.83m
+Pavel Fomin   	1	1	1	1	1	1	  4:37.47m
+Pascal Siffert      	1	1	1	1	1	1	  4:46.21m
+Georg Ratke   	1	1	1	1	1	1	  4:49.77m
+Omid Bayat     	1	1	1	1	1	1	  5:11.02m
+Kim Marschner      	1	1	1	1	1	1		7:52.73m
+Daniel Maachaoui      	1	1	1	1	0			
+Sabine Volz   	1	1	1	1	0			
+Pamela Forster      	1	1	1	1	0			
+Daniel Menne   	1	1	1	1	0			
+Maria Henneken      	1	1	1	1	0			
+Jonas Thiede   	1	1	1	0				
+Florian Eckl   	1	1	1	0				
+Mark Maurer   	1	1	1	0				
+Eric Voßhage      	1	1	1	0				
+Rosa Lenz     	1	1	1	0				
+Jürgen Müller      	1	1	1	0				
+Fabiola Hopp   	1	1	1	0				
+Lisa Pannicke      	1	1	0					
+Jana Svoboda   	1	1	0					
+Daniel Lobotzki      	1	1	0					
+Charline Hausen      	1	1	0					
+Annette Weiss      	1	0						
+Randolf Menge      	1	0						
+Nicolas Baumann      	1	0						
+Linda Raulf   	1	0						
+Wolfgang Dietrich      	0							
+Tina Adler     	0							  

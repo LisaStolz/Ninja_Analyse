@@ -1,0 +1,63 @@
+Name	Pfeil-Sprung	Cargo-Netz mit Rad	Block-Lauf 2.0	Sprungfedern	Tunnel-Sprung 2.0	Himmelsleiter	Klacker	Wand	Mega-Wand	Power Tower 	Zeit
+Artur Schreiber      	1	1	1	1	1	 1	1	1		1	2:19.30m
+Fabian Ströbele      	1	1	1	1	1	 1	1	1		0	3:03.78m
+Leon Wismann   	1	1	1	1	1	1	1	1 		4:01.43m
+Timo Seifried      	1	1	1	1	1	1	 1	1			4:03.37m
+Jescher Heidl      	1	1	1	1	1	1	 1	1			4:18.83m
+Marvin Mitterhuber      	1	1	1	1	 1	1	0				5:20.94m
+Stephan Schmid      	1	1	1	1	1	1	0 			3:10.02m
+Lukas Kern     	1	1	1	1	1	1	0			  3:42.42m
+Benedikt Sigmund      	1	1	1	1	1	 1	0				2:59.20m
+Manasse Heidl      	1	1	1	1	1	1	0 			3:25.82m
+David Wolf     	1	1	1	1	1	1	0			  3:33.45m
+Natnael Olbrich      	1	1	1	1	1	 1	0				3:55.88m
+Arleen Schüßler      	1	1	1	1	 1	1	0				4:45.69m
+Benjamin Grams      	1	1	1	1	1	0	  			1:15.92m
+Astrid Sibon   	1	1	1	1	1	0			  	3:55.75m
+Samuel Dufner      	1	1	1	1	1	0		  		2:16.19m
+Leonardo Calderon      	1	1	1	1	 1	0					1:59.74m
+Remo Genise   	1	1	1	1	0						2:16.76m
+Thomas Oppermann      	1	1	1	1	0	  				1:18.79m
+André Fischer      	1	1	1	1	0				  	3:03.91m
+Sne Belayneh   	1	1	1	0							1:20.08m
+Tommy Nguyen   	1	1	1	0							1:27.36m
+Jekaterina Konanchuk      	1	1	1	0 						2:19.35m
+Janina Petters      	1	1	1	0					  	1:23.68m
+Christian Denzer      	1	1	1	0			  			1:34.87m
+Silvio Grogg   	1	1	1	0							1:37.55m
+Max Heller     	1	1	1	0						  1:45.59m
+Martin Schneider      	1	1	1	0			  			1:47.77m
+Waldemar Keilmann      	1	1	0				  			47.47s
+Anna Droszez   	1	1	0								58.52s
+Tobias Eberle      	1	1	0								1:00.71m
+Dusan Vranes   	1	1	0								32.27s
+Jeremy Smith   	1	1	0								46.89s
+Tony Guntermann      	1	0								  33.01s
+Nico Schmidt   	1	0								  12.37s
+Patrick Swiderek      	1	0							  	16.28s
+Tommy Pham     	1	0									20.30s
+Josie Metinkoe      	1	0									23.12s
+David Brunner      	1	0									25.82s
+Felix Siegert      	1	0									26.31s
+Winfried Ulferts      	1	0							  	26.40s
+Stefan Schlott      	1	0									26.93s
+Christoph Thees      	1	0								  27.95s
+Moses Mwanjelwa      	1	0								  30.18s
+Simon Rehrl   	1	0								  31.92s
+Thomas Franco      	1	0									33.73s
+Erik Mehle     	1	0									40.27s
+Frances Stehr      	1	0									40.58s
+Nikola Wörz   	1	0								  40.60s
+Sabrina Skopp      	1	0									41.08s
+Alisha Lehni   	1	0								  42.71s
+Lisa Schmitt   	1	0								  46.47s
+Dejan Jelovic      	1	0									49.92s
+Roland Friedrich      	0									  11.29s
+Julia Beuter   	0									  14.52s
+Annette Weiss      	0									  17.05s
+Annalena Rohr      	0									  17.73s
+Tanja Cordewener      	0									  18.73s
+Alicia Kummer      	0									  20.34s
+Susanne Seel   	0									  22.05s
+Stacey Scheffel      	0										39.41s
+Mercy Von Trentini      	0							  		2.81s  

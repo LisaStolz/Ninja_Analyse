@@ -1,0 +1,54 @@
+Name	Fünfsprung	Rotierende Haken	Block-Lauf 2.0	Hangel-Fall	Tunnel-Sprung 2.0	Wand	Schwung-Scheiben	Stangen-Treppe	Kamin	Zeit
+Joel Mattli   	1	1	1	1	1	1	1	1	1	5:15.63m
+Alexander Wurm      	1	1	1	1	1	1	1	1	1	5:15.99m
+Benjamin Reichmann      	1	1	1	1	1	1	1	1	1	6:04.45m
+René Casselly      	1	1	1	1	1	1	1	1	1	7:41.80m
+Simon Brunner      	1	1	1	1	1	1	1	0		
+Karim El Azzazy      	1	1	1	1	1	1	1	0		
+Christian Kirstges      	1	1	1	1	1	1	1	0		
+Yasin El Azzazy      	1	1	1	1	1	1	1	0		
+Oliver Edelmann      	1	1	1	1	1	1	1	0		
+Herwig Natmessnig      	1	1	1	1	1	1	1	0		
+Moritz Hans   	1	1	1	1	1	1	1	0		
+Adrian Wullweber      	1	1	1	1	1	1	1	0		
+Max Sprenger   	1	1	1	1	1	1	1	0 	
+Max Prinz     	1	1	1	1	1	1	1	0		
+Manuel Eder   	1	1	1	1	1	1	1	0		
+Philipp Hans   	1	1	1	1	1	1	1	0 	
+Stefanie Noppinger      	1	1	1	1	1	1	1	0		
+Daniel Schmidt      	1	1	1	1	1	1	0 		
+Samuel Dufner      	1	1	1	1	1	1	0 		
+Michael Siegmund      	1	1	1	1	1	1	0			
+Jun Kim     	1	1	1	1	1	1	0			
+Felix Eckart   	1	1	1	1	1	1	0			
+Philipp Boy
+Marian Lotze   	1	1	1	1	0					
+Arleen Schüßler      	1	1	1	1	0 				
+Milan Schirowski      	1	1	1	1	0	  			
+Attila Hamberger      	1	1	1	1	0	  			
+Florian Böbel      	1	1	1	1	0					
+Patrick Sonderegger      	1	1	1	1	0					
+Andreas Prost      	1	1	1	1	0					
+Artur Schreiber      	1	1	1	1	0		  		
+Artur Sommer   	1	1	1	1	0					
+Omid Bayat     	1	1	1	1	0					
+Jannis Deuring      	1	1	1	1	0					
+Harald Aichner   	1	1	1	1	0					
+Benedikt Sigmund      	1	1	1	0			  		
+Michael Streif      	1	1	1	0						
+Alex Grunwald      	1	1	1	0						
+Gary Hines   	1	1	1	0						
+Siegfried Sperlich      	1	1	1	0	  				
+Roy Sperlich   	1	1	1	0						
+Pamela Forster      	1	1	1	0						
+Tatjana Holz   	1	1	1	0						
+Daniel Gerber      	1	1	1	0						
+Eric Zekina   	1	1	1	0						
+Katharina Blank      	1	1	1	0						
+Till Ebener   	1	1	0							
+Cindy Wagner   	1	1	0							
+Norbert Schwarz      	1	0								
+Niklas Weber   	1	0								
+Mahdi Limper   	1	0								
+Marvin Mitterhuber      	1	0					  		
+Björn Graul   	0									  

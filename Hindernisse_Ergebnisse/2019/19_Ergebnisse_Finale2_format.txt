@@ -1,0 +1,20 @@
+Name	Schwebende Keile	Schwung-Raster	Doppelte Himmelsleiter	Flug-Weg	Hebebrücken	Schwebende Türen	Spannungsbogen	Fingerleisten 2.0	Stangen-Flug	Zeit
+Alexander Wurm      	1	1	1	1	1	1	1	1	0	
+Moritz Hans   	1	1	1	1	1	1	1	1 0	
+Max Prinz     	1	1	1	1	1	1	1	0		
+Benjamin Reichmann      	1	1	1	1	1	1	1	0		
+Simon Brunner      	1	1	1	0						
+Oliver Edelmann      	1	1	1	0						
+Herwig Natmessnig      	1	1	1	0		  			
+Samuel Dufner      	1	1	1	0						
+René Casselly      	1	1	1	0						
+Yasin El Azzazy      	1	1	1	0						
+Christian Kirstges      	1	1	1	0	  				
+Manuel Eder   	1	1	1	0						
+Joel Mattli   	1	1	1	0						
+Philipp Hans   	1	1	1	0						
+Jun Kim     	1	1	1	0						
+Tobias Eberle      	1	1	0							
+Milan Schirowski      	1	1	0							
+Felix Eckart   	1	1	0							
+Max Sprenger   	1	1	0							  

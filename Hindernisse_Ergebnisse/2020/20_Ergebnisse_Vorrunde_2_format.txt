@@ -1,0 +1,60 @@
+Name	Pfeil-Sprung	Cargonetz mit Schaukel	Schwebende Keile	Sprungfedern	Tunnel-Sprung 2.0	Himmelsleiter	Drehende Bretter	Wand	Mega-Wand	Power Tower 	Zeit
+René Casselly      	1	1	1	1	1	1	 1	1		1	1:57.02m
+Eric Zekina   	1	1	1	1	1	1	1	1 	0	2:20.23m
+Daniel Schmidt      	1	1	1	1	1	1	 1	1			2:21.00m
+Richard Pech   	1	1	1	1	1	1	1	1 		2:43.59m
+Michael Siegmund      	1	1	1	1	1	 1	1	1			2:55.98m
+Marian Lotze   	1	1	1	1	1	1	1	1 		2:59.06m
+Marius Bender      	1	1	1	1	1	1	 1	1			3:15.53m
+Christopher Von Stelzer         	1	 1	1	1	1	1	1	1			3:48.05m
+Max Prinz     	1	1	1	1	1	1	1	1		  3:55.00m
+Niklas Wiesenzarter      	1	1	1	 1	1	1	1	1			5:16.36m
+Kevin Meyer   	1	1	1	1	1	1	1	1 		6:39.86m
+Kevin Herzog   	1	1	1	1	1	1	0	  		2:25.70m
+Kasimir Meyer      	1	1	1	1	1	1	0 			2:53.46m
+Simon Friesenecker      	1	1	1	1	 1	1	0				3:00.57m
+Xhemë Krasniqi   	1	1	1	1	1	1	0 			3:03.76m
+Marco Sperdin      	1	1	1	1	1	1	0 			3:17.09m
+Katharina Blank      	1	1	1	1	1	 1	0				4:39.42m
+Tobias Burkhardt      	1	1	1	1	1	0 				1:55.08m
+Jakob Draeger      	1	1	1	1	1	0		  		2:43.93m
+Dominik Kunzler      	1	1	1	1	1	0 				2:43.24m
+Yasin El Azzazy      	1	1	1	1	1	0 				1:42.28m
+Maximilian Rieder      	1	1	1	1	 1	0					2:30.57m
+Karim El Azzazy      	1	1	1	1	1	0 				1:35.82m
+Pascal Koronowski      	1	1	1	1	 1	0					3:40.25m
+Nelson Mzobe   	1	1	1	1	0					  1:32.04m
+Noah Lüders   	1	1	1	1	0					  1:39.73m
+Michael Petsch      	1	1	1	1	0			  		1:51.38m
+Elisa Van der Wel   	1	1	1	1	0 					3:22.64m
+Tabitha Eckfeld      	1	1	1	1	0		  			3:34.90m
+Paul Hild     	1	1	1	1	0					  1:21.33m
+Dominik Krause      	1	1	1	0					  	1:00.65m
+Luana Hauptmann      	1	1	1	0				  		1:25.87m
+Jana Sander   	1	1	1	0							1:48.19m
+John Förster      	1	1	1	0						  3:36.16m
+Steffen Reinelt      	1	1	1	0				  		1:12.02m
+Tomislav Zecevic      	1	1	1	0			  			1:16.87m
+Haruna Wackernagel      	1	1	1	0	  					1:27.08m
+Stephanie Rettenberger      	1	1	 1	0							1:36.71m
+Maria Henneken      	1	1	1	0					  	1:45.33m
+Andrea Dörr   	1	1	1	0							2:00.13m
+Dirk Reimann   	1	1	1	0							2:12.55m
+Sonja Fischer      	1	1	1	0						  2:13.10m
+Florian Becher      	1	1	0							  1:05.01m
+Maylin Segger      	1	1	0								1:05.86m
+Annika Werner      	1	1	0								49.96s
+Martin Renk   	1	1	0							  58.54s
+Carlos Davalos Lomeli      	1	1	0 							51.96s
+Thomas Hafer   	1	0								  18.98s
+Mona Schulz   	1	0								  22.15s
+Michael Badner      	1	0									26.92s
+Dennis Kilani      	1	0									29.11s
+Toni Franzke   	1	0								  30.13s
+Max Kiffmeyer      	1	0									32.18s
+Sascha Schöpf      	1	0									38.22s
+Bajran Morina      	1	0									39.15s
+Meliha Satir   	1	0								  44.32s
+Gabriel Barth      	1	0									1:15.71m
+Stella Holczer      	1	0									1:42.29m
+Matthias Hojczyk      	0									  2.97s  

@@ -1,0 +1,26 @@
+ToDo
+Ergebnisse:
+- Seiten Laden 2016 und 2017: https://www.sport.de/ninja-warrior/ninja-warrior-germany/ma9097102/ergebnisse/
+- Ergebnisse parsen 2016, 2017, 2018
+        -> grep (Datei anpassen!)
+        -> sed (Datei anpassen!)
+        -> manuelle Überprüfung und Hindernisse von *_short zu *_format kopieren
+        
+Athleten:
+- Parsen der Detail Seiten
+- Datensatz erstellen
+
+
+Methoden:
+- RCode in Dataiku testen
+- Analysen in Dataiku (Datensätze: Athleten_df, Athleten_Detail_df, 20_Ergebnisse_* -> Überlegen welche Darstellung für Ergebnis_dfs sinnvoll ist!)
+    -> Einfluss Gewicht/Größe/Geschlecht/Alter auf Ergebnis (gesamt/ bei best. Hindernissen)??
+- Laden auf Git
+
+
+
+
+Weitere Ansätze prüfen:
+- Bens Präsentation - Verbesserung der eigenen Arbeitsmethode (Organisation/ Dokumentation/ ...)
+- Elastic?
+- Docker?

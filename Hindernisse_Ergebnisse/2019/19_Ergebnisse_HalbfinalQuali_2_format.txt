@@ -1,0 +1,16 @@
+Name	Pfeil-Sprung	Schwing-Flügel	Himmelsleiter	Hangel-Trommeln	Kamin mit Klappen	Zeit
+Adrian Wullweber      	1	1	1	1	1	1:56.89m
+Andreas Prost      	1	1	1	1	1 	3:30.46m
+Björn Graul   	1	1	1	1	1 	3:38.30m
+Manuel Eder   	1	1	1	1	1 	4:02.06m
+Oliver Edelmann      	1	1	1	0		
+Herwig Natmessnig      	1	1	1	0		
+Jannis Deuring      	1	1	1	0		
+Stefanie Noppinger      	1	1	1	0		
+David Eilenstein      	1	1	0			
+Paul Mitskevitch      	1	0				
+Andrea Forstmayr      	1	0				
+Sebastian Buchner      	1	0				
+Nadine Wilhelm      	1	0				
+Jana Sandner   	0					
+Denise Meyer   	0					  

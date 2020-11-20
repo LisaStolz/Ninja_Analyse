@@ -1,0 +1,824 @@
+Anzeige
+<#>
+<https://www.sport.de/>
+<https://www.n-tv.de/>
+<https://www.sport.de/>
+<https://www.n-tv.de/>
+
+  *
+    /
+
+    /Home <https://www.sport.de/>
+  *
+  *
+    /
+
+    /Fußball <https://www.sport.de/fussball/magazin/>
+  *
+    /
+
+    /Formel 1 <https://www.sport.de/motorsport/formel-1/magazin/>
+  *
+    /
+
+    /Tennis <https://www.sport.de/tennis/magazin/>
+  *
+    /
+
+    /Handball <https://www.sport.de/handball/magazin/>
+  *
+    /
+
+    /Eishockey <https://www.sport.de/eishockey/magazin/>
+  *
+    /
+
+    /Basketball <https://www.sport.de/basketball/magazin/>
+  *
+    /
+
+    /Ninja Warrior <https://www.sport.de/ninja-warrior/magazin/>
+  *
+    /
+
+    /Wintersport <https://www.sport.de/wintersport/magazin/>
+  *
+    /
+
+    /Boxen <https://www.sport.de/boxen/magazin/>
+  *
+    /
+
+    /US-Sport <https://www.sport.de/us-sport/magazin/>
+  *
+    /
+
+    /Motorsport <https://www.sport.de/motorsport/magazin/>
+  *
+    /
+
+    /Leichtathletik <https://www.sport.de/leichtathletik/magazin/>
+  *
+    /
+
+    /Volleyball <https://www.sport.de/volleyball/magazin/>
+  *
+    /
+
+    /Am. Football <https://www.sport.de/american-football/magazin/>
+  *
+    /
+
+    /Darts <https://www.sport.de/darts/magazin/>
+  *
+    /
+
+    /Tischtennis <https://www.sport.de/tischtennis/magazin/>
+  *
+    /
+
+    /Rugby <https://www.sport.de/rugby/magazin/>
+  *
+    /
+
+    /Radsport <https://www.sport.de/radsport/magazin/>
+  *
+    /
+
+    /Golf <https://www.sport.de/golf/magazin/>
+  *
+    /
+
+    /Reitsport <https://www.sport.de/reitsport/magazin/>
+  *
+    /
+
+    /Turnen <https://www.sport.de/turnen/magazin/>
+  *
+    /
+
+    /Hockey <https://www.sport.de/feldhockey/magazin/>
+  *
+    /
+
+    /Schwimmsport <https://www.sport.de/schwimmsport/magazin/>
+  *
+    /
+
+    /Wasserball <https://www.sport.de/wasserball/magazin/>
+  *
+    /
+
+    /Badminton <https://www.sport.de/badminton/magazin/>
+  *
+    /
+
+    /Olympische Spiele <https://www.sport.de/olympia/magazin/>
+  *
+    /
+
+    /Sport-Mix <https://www.sport.de/sport-mix/magazin/>
+  *
+    /
+
+    /eSports <https://www.sport.de/esports/magazin/>
+
+••• Mehr Sport
+
+  *
+    /
+
+    /Wintersport <https://www.sport.de/wintersport/magazin/>
+  *
+    /
+
+    /Boxen <https://www.sport.de/boxen/magazin/>
+  *
+    /
+
+    /US-Sport <https://www.sport.de/us-sport/magazin/>
+  *
+    /
+
+    /Motorsport <https://www.sport.de/motorsport/magazin/>
+  *
+    /
+
+    /Leichtathletik <https://www.sport.de/leichtathletik/magazin/>
+  *
+    /
+
+    /Volleyball <https://www.sport.de/volleyball/magazin/>
+  *
+    /
+
+    /Am. Football <https://www.sport.de/american-football/magazin/>
+  *
+    /
+
+    /Darts <https://www.sport.de/darts/magazin/>
+  *
+    /
+
+    /Tischtennis <https://www.sport.de/tischtennis/magazin/>
+  *
+    /
+
+    /Rugby <https://www.sport.de/rugby/magazin/>
+  *
+    /
+
+    /Radsport <https://www.sport.de/radsport/magazin/>
+  *
+    /
+
+    /Golf <https://www.sport.de/golf/magazin/>
+  *
+    /
+
+    /Reitsport <https://www.sport.de/reitsport/magazin/>
+  *
+    /
+
+    /Turnen <https://www.sport.de/turnen/magazin/>
+  *
+    /
+
+    /Hockey <https://www.sport.de/feldhockey/magazin/>
+  *
+    /
+
+    /Schwimmsport <https://www.sport.de/schwimmsport/magazin/>
+  *
+    /
+
+    /Wasserball <https://www.sport.de/wasserball/magazin/>
+  *
+    /
+
+    /Badminton <https://www.sport.de/badminton/magazin/>
+  *
+    /
+
+    /Olympische Spiele <https://www.sport.de/olympia/magazin/>
+  *
+    /
+
+    /Sport-Mix <https://www.sport.de/sport-mix/magazin/>
+  *
+    /
+
+    /eSports <https://www.sport.de/esports/magazin/>
+
+/
+
+/ Ninja Warrior
+
+  * Magazin <https://www.sport.de/ninja-warrior/magazin/>
+  * Kalender <https://www.sport.de/ninja-warrior/kalender/>
+  * Athleten <https://www.sport.de/ninja-warrior/athleten/>
+  * Videos <https://www.sport.de/ninja-warrior/videos/>
+  * Bilder <https://www.sport.de/ninja-warrior/bilder/>
+  * Schlagzeilen <https://www.sport.de/ninja-warrior/news-archiv/>
+  * Diashows <https://www.sport.de/ninja-warrior/diashows/>
+
+••• Mehr
+
+
+  Ninja WarriorDeutschland Ninja Warrior GermanyVorrunde, Show 6Ergebnisse
+
+Ninja Warrior Germany	
+Nächstes Event auf RTL und TVNOW
+Tage
+
+  *
+    9
+    9
+     <#>
+  *
+    0
+    0
+     <#>
+
+  *
+    9
+    9
+     <#>
+  *
+    0
+    0
+     <#>
+
+Stunden
+
+  *
+    9
+    9
+     <#>
+  *
+    0
+    0
+     <#>
+
+  *
+    4
+    4
+     <#>
+  *
+    5
+    5
+     <#>
+
+Minuten
+
+  *
+    9
+    9
+     <#>
+  *
+    0
+    0
+     <#>
+
+  *
+    4
+    4
+     <#>
+  *
+    5
+    5
+     <#>
+
+Sekunden
+
+  *
+    3
+    3
+     <#>
+  *
+    2
+    2
+     <#>
+
+  *
+    8
+    8
+     <#>
+  *
+    7
+    7
+     <#>
+
+<https://www.sport.de/ninja-warrior/ninja-warrior-germany/ma9131553/liveticker/>
+
+
+
+    Endergebnis
+
+  *
+    Vorrunde, Show 1
+    02.10. 20:15
+    <https://www.sport.de/ninja-warrior/ninja-warrior-germany/ma9131541/liveticker/>
+  *
+    Vorrunde, Show 2
+    09.10. 20:15
+    <https://www.sport.de/ninja-warrior/ninja-warrior-germany/ma9131543/liveticker/>
+  *
+    Vorrunde, Show 3
+    16.10. 20:15
+    <https://www.sport.de/ninja-warrior/ninja-warrior-germany/ma9131545/liveticker/>
+  *
+    Vorrunde, Show 4
+    23.10. 20:15
+    <https://www.sport.de/ninja-warrior/ninja-warrior-germany/ma9131547/liveticker/>
+  *
+    Vorrunde, Show 5
+    30.10. 20:15
+    <https://www.sport.de/ninja-warrior/ninja-warrior-germany/ma9131549/liveticker/>
+  *
+    Vorrunde, Show 6
+    06.11. 20:30
+    <https://www.sport.de/ninja-warrior/ninja-warrior-germany/ma9131551/liveticker/>
+  *
+    Halbfinale, Show 1
+    13.11. 20:15
+    <https://www.sport.de/ninja-warrior/ninja-warrior-germany/ma9131553/liveticker/>
+  *
+    Halbfinale, Show 2
+    20.11. 20:15
+    <https://www.sport.de/ninja-warrior/ninja-warrior-germany/ma9131554/liveticker/>
+  *
+    Finale, Show 1
+    27.11. 20:15
+    <https://www.sport.de/ninja-warrior/ninja-warrior-germany/ma9131555/liveticker/>
+  *
+    Finale, Show 2
+    04.12. 20:15
+    <https://www.sport.de/ninja-warrior/ninja-warrior-germany/ma9131556/liveticker/>
+
+  *
+    1
+    Milan Schirowski
+    <https://www.sport.de/ninja-warrior/pe686625/milan-schirowski/>
+    Milan Schirowski
+    <https://www.sport.de/ninja-warrior/pe686625/milan-schirowski/>
+    Deutschland
+    2:25.60m
+  *
+    2
+    Daniel Gerber
+    <https://www.sport.de/ninja-warrior/pe685942/daniel-gerber/>
+    Daniel Gerber
+    <https://www.sport.de/ninja-warrior/pe685942/daniel-gerber/>
+    Deutschland
+    2:27.80m
+  *
+    3
+    Alex Grunwald
+    <https://www.sport.de/ninja-warrior/pe686457/alex-grunwald/>
+    Alex Grunwald
+    <https://www.sport.de/ninja-warrior/pe686457/alex-grunwald/>
+    Deutschland
+    2:30.90m
+
+Aktualisieren
+
+  * Liveticker
+    <https://www.sport.de/ninja-warrior/ninja-warrior-germany/ma9131551/liveticker/>
+  * Ergebnis
+    <https://www.sport.de/ninja-warrior/ninja-warrior-germany/ma9131551/ergebnisse/>
+  * Startliste
+    <https://www.sport.de/ninja-warrior/ninja-warrior-germany/ma9131551/startliste/>
+  * Videos
+    <https://www.sport.de/ninja-warrior/ninja-warrior-germany/ma9131551/videos/>
+  * Bilder
+    <https://www.sport.de/ninja-warrior/ninja-warrior-germany/ma9131551/bilder/>
+  * Diashows
+    <https://www.sport.de/ninja-warrior/ninja-warrior-germany/ma9131551/diashows/>
+  * News
+    <https://www.sport.de/ninja-warrior/ninja-warrior-germany/ma9131551/news/>
+
+••• Mehr
+
+Für mehr Daten, bitte Gerät drehen.
+Pos.			Name	Name	Pfeil-Sprung
+	Cargo-Netz mit Stange
+	Chaos-Bälle
+	Schwingende Körbe
+	Tunnel-Sprung 2.0
+	Himmelsleiter
+	Zeit-Sprung
+	Wand
+	Mega-Wand
+	Power Tower
+	
+Zeit
+1	Milan Schirowski
+<https://www.sport.de/ninja-warrior/pe686625/milan-schirowski/>
+Deutschland	Milan Schirowski
+<https://www.sport.de/ninja-warrior/pe686625/milan-schirowski/>	M.
+Schirowski
+<https://www.sport.de/ninja-warrior/pe686625/milan-schirowski/>	1	1	1	1	1	1
+1	1		0	2:25.60m
+2	Daniel Gerber
+<https://www.sport.de/ninja-warrior/pe685942/daniel-gerber/>
+Deutschland	Daniel Gerber
+<https://www.sport.de/ninja-warrior/pe685942/daniel-gerber/>	D. Gerber
+<https://www.sport.de/ninja-warrior/pe685942/daniel-gerber/>	1	1	1	1	1	1	1
+1		1	2:27.80m
+3	Alex Grunwald
+<https://www.sport.de/ninja-warrior/pe686457/alex-grunwald/>
+Deutschland	Alex Grunwald
+<https://www.sport.de/ninja-warrior/pe686457/alex-grunwald/>	A. Grunwald
+<https://www.sport.de/ninja-warrior/pe686457/alex-grunwald/>	1	1	1	1	1	1	1
+1			2:30.90m
+4	Enrico Meister
+<https://www.sport.de/ninja-warrior/pe686737/enrico-meister/>
+Deutschland	Enrico Meister
+<https://www.sport.de/ninja-warrior/pe686737/enrico-meister/>	E. Meister
+<https://www.sport.de/ninja-warrior/pe686737/enrico-meister/>	1	1	1	1	1	1	0
+			2:54.10m
+5	Eren Eski <https://www.sport.de/ninja-warrior/pe686624/eren-eski/>
+Deutschland	Eren Eski
+<https://www.sport.de/ninja-warrior/pe686624/eren-eski/>	E. Eski
+<https://www.sport.de/ninja-warrior/pe686624/eren-eski/>	1	1	1	1	1	1	0				2:29.80m
+6	Christian Balkheimer
+<https://www.sport.de/ninja-warrior/pe686086/christian-balkheimer/>
+Deutschland	Christian Balkheimer
+<https://www.sport.de/ninja-warrior/pe686086/christian-balkheimer/>	C.
+Balkheimer
+<https://www.sport.de/ninja-warrior/pe686086/christian-balkheimer/>	1	1	1	1
+1	1	0				2:34.60m
+7	Moritz Andelfinger
+<https://www.sport.de/ninja-warrior/pe708197/moritz-andelfinger/>
+Deutschland	Moritz Andelfinger
+<https://www.sport.de/ninja-warrior/pe708197/moritz-andelfinger/>	M.
+Andelfinger
+<https://www.sport.de/ninja-warrior/pe708197/moritz-andelfinger/>	1	1	1	1	1
+1	0				2:44.10m
+8	Benedikt Last
+<https://www.sport.de/ninja-warrior/pe686798/benedikt-last/>
+Deutschland	Benedikt Last
+<https://www.sport.de/ninja-warrior/pe686798/benedikt-last/>	B. Last
+<https://www.sport.de/ninja-warrior/pe686798/benedikt-last/>	1	1	1	1	1	1	0
+			3:20.60m
+9	Marius Holzinger
+<https://www.sport.de/ninja-warrior/pe686805/marius-holzinger/>
+Deutschland	Marius Holzinger
+<https://www.sport.de/ninja-warrior/pe686805/marius-holzinger/>	M.
+Holzinger
+<https://www.sport.de/ninja-warrior/pe686805/marius-holzinger/>	1	1	1	1	1	1
+0				3:54.50m
+10	Benjamin Schmidt
+<https://www.sport.de/ninja-warrior/pe708199/benjamin-schmidt/>
+Deutschland	Benjamin Schmidt
+<https://www.sport.de/ninja-warrior/pe708199/benjamin-schmidt/>	B.
+Schmidt
+<https://www.sport.de/ninja-warrior/pe708199/benjamin-schmidt/>	1	1	1	1	1	1
+0				2:08.40m
+11	Christoph Galle
+<https://www.sport.de/ninja-warrior/pe708201/christoph-galle/>
+Deutschland	Christoph Galle
+<https://www.sport.de/ninja-warrior/pe708201/christoph-galle/>	C. Galle
+<https://www.sport.de/ninja-warrior/pe708201/christoph-galle/>	1	1	1	1	1	1
+0				2:40.70m
+12	Bastian Hauk
+<https://www.sport.de/ninja-warrior/pe708202/bastian-hauk/>	Deutschland
+Bastian Hauk
+<https://www.sport.de/ninja-warrior/pe708202/bastian-hauk/>	B. Hauk
+<https://www.sport.de/ninja-warrior/pe708202/bastian-hauk/>	1	1	1	1	1	1	0	
+		3:03.40m
+13	Patrick Basler
+<https://www.sport.de/ninja-warrior/pe708203/patrick-basler/>
+Deutschland	Patrick Basler
+<https://www.sport.de/ninja-warrior/pe708203/patrick-basler/>	P. Basler
+<https://www.sport.de/ninja-warrior/pe708203/patrick-basler/>	1	1	1	1	1	1	0
+			3:06.60m
+14	Dennis Leiber
+<https://www.sport.de/ninja-warrior/pe686359/dennis-leiber/>
+Deutschland	Dennis Leiber
+<https://www.sport.de/ninja-warrior/pe686359/dennis-leiber/>	D. Leiber
+<https://www.sport.de/ninja-warrior/pe686359/dennis-leiber/>	1	1	1	1	1	1	0
+			3:17.50m
+15	Bérenger Florence
+<https://www.sport.de/ninja-warrior/pe708204/berenger-florence/>
+Frankreich	Bérenger Florence
+<https://www.sport.de/ninja-warrior/pe708204/berenger-florence/>	B.
+Florence
+<https://www.sport.de/ninja-warrior/pe708204/berenger-florence/>	1	1	1	1	1
+1	0				3:22.30m
+16	Markus Malle
+<https://www.sport.de/ninja-warrior/pe686830/markus-malle/>	Deutschland
+Markus Malle
+<https://www.sport.de/ninja-warrior/pe686830/markus-malle/>	M. Malle
+<https://www.sport.de/ninja-warrior/pe686830/markus-malle/>	1	1	1	1	1	1	0	
+		3:57.30m
+17	Tobias Holz
+<https://www.sport.de/ninja-warrior/pe686832/tobias-holz/>	Deutschland
+Tobias Holz <https://www.sport.de/ninja-warrior/pe686832/tobias-holz/>
+T. Holz
+<https://www.sport.de/ninja-warrior/pe686832/tobias-holz/>	1	1	1	1	1	0				
+2:00.10m
+18	Stephan Röpcke
+<https://www.sport.de/ninja-warrior/pe708205/stephan-roepcke/>
+Deutschland	Stephan Röpcke
+<https://www.sport.de/ninja-warrior/pe708205/stephan-roepcke/>	S. Röpcke
+<https://www.sport.de/ninja-warrior/pe708205/stephan-roepcke/>	1	1	1	1	1	0
+				3:35.40m
+19	Raffael Schellenberg
+<https://www.sport.de/ninja-warrior/pe708206/raffael-schellenberg/>
+Deutschland	Raffael Schellenberg
+<https://www.sport.de/ninja-warrior/pe708206/raffael-schellenberg/>	R.
+Schellenberg
+<https://www.sport.de/ninja-warrior/pe708206/raffael-schellenberg/>	1	1	1	1
+0						3:21.20m
+20	Philipp Jürgen
+<https://www.sport.de/ninja-warrior/pe708207/philipp-juergen/>
+Deutschland	Philipp Jürgen
+<https://www.sport.de/ninja-warrior/pe708207/philipp-juergen/>	P. Jürgen
+<https://www.sport.de/ninja-warrior/pe708207/philipp-juergen/>	1	1	1	1	0		
+			1:00.50m
+21	Felix Flieger
+<https://www.sport.de/ninja-warrior/pe708208/felix-flieger/>
+Deutschland	Felix Flieger
+<https://www.sport.de/ninja-warrior/pe708208/felix-flieger/>	F. Flieger
+<https://www.sport.de/ninja-warrior/pe708208/felix-flieger/>	1	1	1	1	0				
+	1:28.70m
+22	Nils Bürger
+<https://www.sport.de/ninja-warrior/pe708209/nils-buerger/>	Deutschland
+Nils Bürger <https://www.sport.de/ninja-warrior/pe708209/nils-buerger/>
+N. Bürger
+<https://www.sport.de/ninja-warrior/pe708209/nils-buerger/>	1	1	1	1	0					
+1:44.70m
+23	Stephan Koitek
+<https://www.sport.de/ninja-warrior/pe686836/stephan-koitek/>
+Deutschland	Stephan Koitek
+<https://www.sport.de/ninja-warrior/pe686836/stephan-koitek/>	S. Koitek
+<https://www.sport.de/ninja-warrior/pe686836/stephan-koitek/>	1	1	1	1	0			
+		1:55.90m
+24	Stefanie Drach
+<https://www.sport.de/ninja-warrior/pe686799/stefanie-drach/>
+Deutschland	Stefanie Drach
+<https://www.sport.de/ninja-warrior/pe686799/stefanie-drach/>	S. Drach
+<https://www.sport.de/ninja-warrior/pe686799/stefanie-drach/>	1	1	1	1	0			
+		3:13.60m
+25	Gabriel Pediconi
+<https://www.sport.de/ninja-warrior/pe686588/gabriel-pediconi/>
+Deutschland	Gabriel Pediconi
+<https://www.sport.de/ninja-warrior/pe686588/gabriel-pediconi/>	G.
+Pediconi
+<https://www.sport.de/ninja-warrior/pe686588/gabriel-pediconi/>	1	1	1	0			
+			1:46.50m
+26	Dean Tanwani
+<https://www.sport.de/ninja-warrior/pe708210/dean-tanwani/>	Deutschland
+Dean Tanwani
+<https://www.sport.de/ninja-warrior/pe708210/dean-tanwani/>	D. Tanwani
+<https://www.sport.de/ninja-warrior/pe708210/dean-tanwani/>	1	1	1	0							1:07.90m
+27	Francois Lagalante
+<https://www.sport.de/ninja-warrior/pe708211/francois-lagalante/>
+Deutschland	Francois Lagalante
+<https://www.sport.de/ninja-warrior/pe708211/francois-lagalante/>	F.
+Lagalante
+<https://www.sport.de/ninja-warrior/pe708211/francois-lagalante/>	1	1	1	0	
+					1:10.20m
+28	Julia Koch <https://www.sport.de/ninja-warrior/pe686804/julia-koch/>
+Deutschland	Julia Koch
+<https://www.sport.de/ninja-warrior/pe686804/julia-koch/>	J. Koch
+<https://www.sport.de/ninja-warrior/pe686804/julia-koch/>	1	1	1	0						
+1:19.20m
+29	Dimitrios Papadopoulos
+<https://www.sport.de/ninja-warrior/pe708212/dimitrios-papadopoulos/>
+Deutschland	Dimitrios Papadopoulos
+<https://www.sport.de/ninja-warrior/pe708212/dimitrios-papadopoulos/>	D.
+Papadopoulos
+<https://www.sport.de/ninja-warrior/pe708212/dimitrios-papadopoulos/>	1	1	1
+0							1:25.90m
+30	Lea Fortin <https://www.sport.de/ninja-warrior/pe708238/lea-fortin/>
+Deutschland	Lea Fortin
+<https://www.sport.de/ninja-warrior/pe708238/lea-fortin/>	L. Fortin
+<https://www.sport.de/ninja-warrior/pe708238/lea-fortin/>	1	1	1	0						
+2:50.50m
+31	Oxana Wachter
+<https://www.sport.de/ninja-warrior/pe708237/oxana-wachter/>
+Deutschland	Oxana Wachter
+<https://www.sport.de/ninja-warrior/pe708237/oxana-wachter/>	O. Wachter
+<https://www.sport.de/ninja-warrior/pe708237/oxana-wachter/>	1	1	0								1:03.80m
+32	Jasmin Lehmann
+<https://www.sport.de/ninja-warrior/pe708236/jasmin-lehmann/>
+Deutschland	Jasmin Lehmann
+<https://www.sport.de/ninja-warrior/pe708236/jasmin-lehmann/>	J. Lehmann
+<https://www.sport.de/ninja-warrior/pe708236/jasmin-lehmann/>	1	1	0							
+1:41.90m
+33	Patrick Mengel
+<https://www.sport.de/ninja-warrior/pe708213/patrick-mengel/>
+Deutschland	Patrick Mengel
+<https://www.sport.de/ninja-warrior/pe708213/patrick-mengel/>	P. Mengel
+<https://www.sport.de/ninja-warrior/pe708213/patrick-mengel/>	1	1	0							
+1:51.00m
+34	Lukas Kaufmann
+<https://www.sport.de/ninja-warrior/pe686167/lukas-kaufmann/>
+Deutschland	Lukas Kaufmann
+<https://www.sport.de/ninja-warrior/pe686167/lukas-kaufmann/>	L.
+Kaufmann
+<https://www.sport.de/ninja-warrior/pe686167/lukas-kaufmann/>	1	1	0							
+22.04s
+35	Sven Wilhelm
+<https://www.sport.de/ninja-warrior/pe708214/sven-wilhelm/>	Deutschland
+Sven Wilhelm
+<https://www.sport.de/ninja-warrior/pe708214/sven-wilhelm/>	S. Wilhelm
+<https://www.sport.de/ninja-warrior/pe708214/sven-wilhelm/>	1	1	0								28.24s
+36	Rainer Leiber
+<https://www.sport.de/ninja-warrior/pe686358/rainer-leiber/>
+Deutschland	Rainer Leiber
+<https://www.sport.de/ninja-warrior/pe686358/rainer-leiber/>	R. Leiber
+<https://www.sport.de/ninja-warrior/pe686358/rainer-leiber/>	1	1	0								43.16s
+37	Tim Kruk <https://www.sport.de/ninja-warrior/pe708215/tim-kruk/>
+Deutschland	Tim Kruk
+<https://www.sport.de/ninja-warrior/pe708215/tim-kruk/>	T. Kruk
+<https://www.sport.de/ninja-warrior/pe708215/tim-kruk/>	1	1	0								53.68s
+38	Patrick Apfelthaler
+<https://www.sport.de/ninja-warrior/pe708216/patrick-apfelthaler/>
+Deutschland	Patrick Apfelthaler
+<https://www.sport.de/ninja-warrior/pe708216/patrick-apfelthaler/>	P.
+Apfelthaler
+<https://www.sport.de/ninja-warrior/pe708216/patrick-apfelthaler/>	1	1	0		
+					58.74s
+39	Mario Gimbel
+<https://www.sport.de/ninja-warrior/pe708217/mario-gimbel/>	Deutschland
+Mario Gimbel
+<https://www.sport.de/ninja-warrior/pe708217/mario-gimbel/>	M. Gimbel
+<https://www.sport.de/ninja-warrior/pe708217/mario-gimbel/>	1	1	0								59.40s
+40	Lilli Kiesgen
+<https://www.sport.de/ninja-warrior/pe686185/lilli-kiesgen/>
+Deutschland	Lilli Kiesgen
+<https://www.sport.de/ninja-warrior/pe686185/lilli-kiesgen/>	L. Kiesgen
+<https://www.sport.de/ninja-warrior/pe686185/lilli-kiesgen/>	1	1	0								1:10.40m
+41	Ricardo Lopez Lozano
+<https://www.sport.de/ninja-warrior/pe708219/ricardo-lopez-lozano/>
+Deutschland	Ricardo Lopez Lozano
+<https://www.sport.de/ninja-warrior/pe708219/ricardo-lopez-lozano/>	R.
+Lopez Lozano
+<https://www.sport.de/ninja-warrior/pe708219/ricardo-lopez-lozano/>	1	1	0	
+						1:29.80m
+42	Sven Perez <https://www.sport.de/ninja-warrior/pe708220/sven-perez/>
+Deutschland	Sven Perez
+<https://www.sport.de/ninja-warrior/pe708220/sven-perez/>	S. Perez
+<https://www.sport.de/ninja-warrior/pe708220/sven-perez/>	1	1	0							
+1:41.80m
+43	Tiberius Ignat
+<https://www.sport.de/ninja-warrior/pe708221/tiberius-ignat/>
+Deutschland	Tiberius Ignat
+<https://www.sport.de/ninja-warrior/pe708221/tiberius-ignat/>	T. Ignat
+<https://www.sport.de/ninja-warrior/pe708221/tiberius-ignat/>	1	1	0							
+38.52s
+44	Jekaterina Konanchuk
+<https://www.sport.de/ninja-warrior/pe686690/jekaterina-konanchuk/>
+Deutschland	Jekaterina Konanchuk
+<https://www.sport.de/ninja-warrior/pe686690/jekaterina-konanchuk/>	J.
+Konanchuk
+<https://www.sport.de/ninja-warrior/pe686690/jekaterina-konanchuk/>							
+			38.87s
+45	Christian Eier
+<https://www.sport.de/ninja-warrior/pe708222/christian-eier/>
+Deutschland	Christian Eier
+<https://www.sport.de/ninja-warrior/pe708222/christian-eier/>	C. Eier
+<https://www.sport.de/ninja-warrior/pe708222/christian-eier/>	1	1	0							
+59.60s
+46	Annina Lehmann
+<https://www.sport.de/ninja-warrior/pe708235/annina-lehmann/>
+Deutschland	Annina Lehmann
+<https://www.sport.de/ninja-warrior/pe708235/annina-lehmann/>	A. Lehmann
+<https://www.sport.de/ninja-warrior/pe708235/annina-lehmann/>	1	1	0							
+1:01.70m
+47	Sabina Kofler
+<https://www.sport.de/ninja-warrior/pe708234/sabina-kofler/>
+Deutschland	Sabina Kofler
+<https://www.sport.de/ninja-warrior/pe708234/sabina-kofler/>	S. Kofler
+<https://www.sport.de/ninja-warrior/pe708234/sabina-kofler/>	1	1	0								2:02.70m
+48	Carsten Mengel
+<https://www.sport.de/ninja-warrior/pe708223/carsten-mengel/>
+Deutschland	Carsten Mengel
+<https://www.sport.de/ninja-warrior/pe708223/carsten-mengel/>	C. Mengel
+<https://www.sport.de/ninja-warrior/pe708223/carsten-mengel/>	1	0									22.46s
+49	Leon Krückmeyer
+<https://www.sport.de/ninja-warrior/pe708224/leon-krueckmeyer/>
+Deutschland	Leon Krückmeyer
+<https://www.sport.de/ninja-warrior/pe708224/leon-krueckmeyer/>	L.
+Krückmeyer
+<https://www.sport.de/ninja-warrior/pe708224/leon-krueckmeyer/>	1	0							
+	23.19s
+50	Lisa Unger <https://www.sport.de/ninja-warrior/pe708233/lisa-unger/>
+Deutschland	Lisa Unger
+<https://www.sport.de/ninja-warrior/pe708233/lisa-unger/>	L. Unger
+<https://www.sport.de/ninja-warrior/pe708233/lisa-unger/>	1	0									35.26s
+51	Julia Biebl
+<https://www.sport.de/ninja-warrior/pe708232/julia-biebl/>	Deutschland
+Julia Biebl <https://www.sport.de/ninja-warrior/pe708232/julia-biebl/>
+J. Biebl
+<https://www.sport.de/ninja-warrior/pe708232/julia-biebl/>	1	0								
+1:01.80m
+52	Philipp Altenhofen
+<https://www.sport.de/ninja-warrior/pe708225/philipp-altenhofen/>
+Deutschland	Philipp Altenhofen
+<https://www.sport.de/ninja-warrior/pe708225/philipp-altenhofen/>	P.
+Altenhofen
+<https://www.sport.de/ninja-warrior/pe708225/philipp-altenhofen/>	0							
+		9.69s
+53	Regina Strunz
+<https://www.sport.de/ninja-warrior/pe708231/regina-strunz/>
+Deutschland	Regina Strunz
+<https://www.sport.de/ninja-warrior/pe708231/regina-strunz/>	R. Strunz
+<https://www.sport.de/ninja-warrior/pe708231/regina-strunz/>	0									
+11.22s
+54	Nele Geis <https://www.sport.de/ninja-warrior/pe708230/nele-geis/>
+Deutschland	Nele Geis
+<https://www.sport.de/ninja-warrior/pe708230/nele-geis/>	N. Geis
+<https://www.sport.de/ninja-warrior/pe708230/nele-geis/>	0										13.09s
+55	Ramona Bergmeister
+<https://www.sport.de/ninja-warrior/pe708229/ramona-bergmeister/>
+Deutschland	Ramona Bergmeister
+<https://www.sport.de/ninja-warrior/pe708229/ramona-bergmeister/>	R.
+Bergmeister
+<https://www.sport.de/ninja-warrior/pe708229/ramona-bergmeister/>	0							
+		14.62s
+56	Bianca Giering
+<https://www.sport.de/ninja-warrior/pe708228/bianca-giering/>
+Deutschland	Bianca Giering
+<https://www.sport.de/ninja-warrior/pe708228/bianca-giering/>	B. Giering
+<https://www.sport.de/ninja-warrior/pe708228/bianca-giering/>	0										14.96s
+57	Mehmet Topyürek
+<https://www.sport.de/ninja-warrior/pe708226/mehmet-topyuerek/>
+Deutschland	Mehmet Topyürek
+<https://www.sport.de/ninja-warrior/pe708226/mehmet-topyuerek/>	M.
+Topyürek
+<https://www.sport.de/ninja-warrior/pe708226/mehmet-topyuerek/>	0									
+35.65s
+58	Ahmet Kurt <https://www.sport.de/ninja-warrior/pe686854/ahmet-kurt/>
+Deutschland	Ahmet Kurt
+<https://www.sport.de/ninja-warrior/pe686854/ahmet-kurt/>	A. Kurt
+<https://www.sport.de/ninja-warrior/pe686854/ahmet-kurt/>	0										5.75s
+59	Lynne Winkler
+<https://www.sport.de/ninja-warrior/pe686820/lynne-winkler/>
+Deutschland	Lynne Winkler
+<https://www.sport.de/ninja-warrior/pe686820/lynne-winkler/>	L. Winkler
+<https://www.sport.de/ninja-warrior/pe686820/lynne-winkler/>	0									
+5.55s
+60	Nikki Adler
+<https://www.sport.de/ninja-warrior/pe708227/nikki-adler/>	Deutschland
+Nikki Adler <https://www.sport.de/ninja-warrior/pe708227/nikki-adler/>
+N. Adler
+<https://www.sport.de/ninja-warrior/pe708227/nikki-adler/>	0										2.03s
+
+Ninja Warrior Germany Mixed Ninja Warrior Germany Mixed
+Anzeige
+
+
+    News
+
+09.11.
+Rainer und Dennis Leiber exklusiv
+<https://www.sport.de/news/ne4230273/ninja-warrior-germany-crazy-family-rainer-und-dennis-leiber-im-grossen-interview/>
+Leiber exklusiv: "Das ist wie das Blut zum Leben"
+<https://www.sport.de/news/ne4230273/ninja-warrior-germany-crazy-family-rainer-und-dennis-leiber-im-grossen-interview/>
+06.11.
+Gerber erreicht Finale von Ninja Warrior
+<https://www.sport.de/news/ne4228383/ninja-warrior-so-lief-die-finale-vorrundenshow/>
+Gerber erreicht Finale - Nächster Favorit raus
+<https://www.sport.de/news/ne4228383/ninja-warrior-so-lief-die-finale-vorrundenshow/>
+05.11.
+Die Hindernisse der 6. Vorrunde im Überblick
+<https://www.sport.de/diashow/sl5262/ninja-warrior-die-hindernisse-der-6-vorrunde/#slide=1;>
+Ninja Warrior: Die Hindernisse der letzten Vorrunde
+<https://www.sport.de/diashow/sl5262/ninja-warrior-die-hindernisse-der-6-vorrunde/#slide=1;>
+05.11.
+Ninja Warrior: Ninja-Familien im Parcours
+<https://www.sport.de/news/ne4229316/ninja-warrior-germany-das-sind-die-kandidaten-der-6-folge-in-der-5-staffel/>
+Familienduell im letzten Vorrunden-Parcours
+<https://www.sport.de/news/ne4229316/ninja-warrior-germany-das-sind-die-kandidaten-der-6-folge-in-der-5-staffel/>
+03.11.
+"Super Mario" im Ninja-Interview
+<https://www.sport.de/news/ne4224555/ninja-warrior-germany-super-mario-christian-balkheimer-im-interview/>
+Balkheimer: "Es ist schwieriger, als es im Fernsehen wirkt"
+<https://www.sport.de/news/ne4224555/ninja-warrior-germany-super-mario-christian-balkheimer-im-interview/>
+
+Anzeige
+Anzeige
+Livekalender <https://www.sport.de/home/heute-live/> | Bundesliga
+<https://www.sport.de/fussball/deutschland-bundesliga/magazin/> |
+Wintersport <https://www.sport.de/wintersport/magazin/> | Formel 1
+<https://www.sport.de/motorsport/formel-1/magazin/> | US-Sport
+<https://www.sport.de/us-sport/magazin/> | Werben auf sport.de
+<https://www.ip.de/mediadaten_sportde> | Jobs
+<https://www.sport.de/informationen/jobs/> | Impressum
+<https://www.sport.de/informationen/impressum/> | Kontakt sport.de
+<mailto:redaktion@sport.de> | Datenschutz
+<https://www.sport.de/informationen/datenschutz/> | Nutzungsbedingungen
+<https://www.sport.de/informationen/nutzungsbedingungen/> | Privacy
+Manager öffnen <#>
+© 2020 Heimspiel Medien GmbH & Co. KG <https://heimspiel.de/> / RTL
+Interactive GmbH
+<https://www.mediengruppe-rtl.de/unternehmen/firmen-und-sender/rtl-interactive/>
+
+sport.de auf twitter <https://twitter.com/Sportde?lang=de> sport.de auf
+facebook <https://de-de.facebook.com/sport.de>
+

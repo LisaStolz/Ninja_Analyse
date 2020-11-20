@@ -1,0 +1,18 @@
+Name	Stimmgabeln	Rohrschlitten mit Rad	Himmelsleiter	Steuerräder	Kamin mit Klappen	Zeit
+Alex Grunwald      	1	1	1	1	1	1:59.21m
+Moritz Hans   	1	1	1	1	1 2:02.33m
+Florian Böbel      	1	1	1	1	1 2:19.04m
+Christian Kirstges      	1	1	1	1	1 2:50.46m
+Philipp Hans   	1	1	1	1	1 2:54.53m
+Harald Aichner   	1	1	1	0		
+Artur Sommer   	1	1	1	0		
+Christian Harmat   	1	1	0			
+Benedikt Last      	1	1	0			
+Jonathan Jung      	1	0				
+Marlene Kowalik      	1	0				
+Julia Koch     	1	0				
+Thomas Oppermann      	1	0				
+Marius Holzinger      	1	0				
+Lilli Kiesgen      	1	0				
+Max Staats     	0					
+Eric Krüger  	0					

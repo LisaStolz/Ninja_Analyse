@@ -1,0 +1,368 @@
+	Pfeil-Sprung
+	Cargonetz mit Schaukel
+	Chaos-Bälle
+	Trommelwirbel
+	Tunnel-Sprung 2.0
+	Himmelsleiter
+	Einraster
+	Wand
+	Mega-Wand
+	Power Tower
+
+1	Lukas Kilian
+	Deutschland
+Lukas Kilian
+	L. Kilian
+	1	1	1	1	1	1	1	1	1	2:12.08m
+2	Alexander Wurm
+
+Deutschland	Alexander Wurm
+	A. Wurm
+	1	1	1	1	1	1	1
+1		0	3:24.14m
+3	Giovanni Ertl
+
+Deutschland	Giovanni Ertl
+	G. Ertl
+	1	1	1	1	1	1	1
+1			3:24.53m
+4	Björn Graul
+	Deutschland
+Björn Graul 
+B. Graul
+	1	1	1	1	1	1	1	1
+		3:50.75m
+5	Christian Range
+
+Deutschland	Christian Range
+	C. Range
+	1	1	1	1	1	1
+1	1			3:58.22m
+6	Christian Kirstges
+
+Deutschland	Christian Kirstges
+	C.
+Kirstges
+	1	1	1	1	1
+1	1		1		3:58.41m
+7	Max Sprenger
+	Deutschland
+Max Sprenger
+	M. Sprenger
+	1	1	1	1	1	1	0	
+		2:37.98m
+8	Siegfried Sperlich
+
+Deutschland	Siegfried Sperlich
+	S.
+Sperlich
+	1	1	1	1	1
+1	0				3:32.91m
+9	Marco Layer
+	Deutschland
+Marco Layer 
+M. Layer
+	1	1	1	1	1	1	0		
+	3:47.25m
+10	Uwe Weitzer
+	Österreich
+Uwe Weitzer 
+U. Weitzer
+	1	1	1	1	1	1	0		
+	4:14.72m
+11	Christian Krömer
+
+Deutschland	Christian Krömer
+	C.
+Krömer
+	1	1	1	1	1
+1	0				2:56.49m
+12	Philipp Göthert
+
+Deutschland	Philipp Göthert
+	P.
+Göthert
+	1	1	1	1	1	0
+				1:47.02m
+13	Rene Sperlich
+
+Deutschland	Rene Sperlich
+	R. Sperlich
+	1	1	1	1	1	0		
+		2:37.32m
+14	Niklas Woltmann
+
+Deutschland	Niklas Woltmann
+	N.
+Woltmann
+	1	1	1	1	1	0
+				2:51.10m
+15	Frank Schmidpeter
+
+Deutschland	Frank Schmidpeter
+	F.
+Schmidpeter
+	1	1	1	1	1
+0					3:07.46m
+16	Roy Sperlich
+	Deutschland
+Roy Sperlich
+	R. Sperlich
+	1	1	1	1	0					
+2:31.69m
+17	Philipp Peter Frank
+
+Deutschland	Philipp Peter Frank
+	P.
+Frank
+	1	1	1	1
+0						1:48.49m
+18	Thomas Klug
+	Deutschland
+Thomas Klug 
+T. Klug
+	1	1	1	1	0						2:31.21m
+19	Kevin Bäcker
+
+Deutschland	Kevin Bäcker
+	K. Bäcker
+	1	1	1	1	0				
+	2:38.89m
+20	Max Tefke 
+Deutschland	Max Tefke
+	M. Tefke
+	1	1	1	0						
+3:02.45m
+21	Holger Osthus
+
+Deutschland	Holger Osthus
+	H. Osthus
+	1	1	1	0						
+4:03.97m
+22	Maximilian Käser
+
+Deutschland	Maximilian Käser
+	M.
+Käser
+	1	1	1	0		
+				1:27.64m
+23	Marco Lindt
+	Deutschland
+Marco Lindt 
+M. Lindt
+	1	1	1	0							1:02.95m
+24	Rita Benker
+	Deutschland
+Rita Benker 
+R. Benker
+	1	1	1	0							1:17.43m
+25	Matthias Porth
+
+Deutschland	Matthias Porth
+	M. Porth
+	1	1	1	0					
+	1:22.12m
+26	Christian Schmitz
+
+Deutschland	Christian Schmitz
+	C.
+Schmitz
+	1	1	1	0		
+				1:23.26m
+27	Niklas Lokietek
+
+Deutschland	Niklas Lokietek
+	N.
+Lokietek
+	1	1	1	0				
+		1:23.31m
+28	Sebastian Domes
+
+Deutschland	Sebastian Domes
+	S. Domes
+	1	1	1	0				
+		1:26.46m
+29	Hannah Mees
+	Deutschland
+Hannah Mees 
+H. Mees
+	1	1	1	0							1:39.06m
+30	Michaela Casotti
+
+Deutschland	Michaela Casotti
+	M.
+Casotti
+	1	1	1	0			
+			1:56.94m
+31	Istemihan Tokgöz
+
+Deutschland	Istemihan Tokgöz
+	I.
+Tokgöz
+	1	1	1	0		
+				1:58.67m
+32	Marcel Sajons
+
+Deutschland	Marcel Sajons
+	M. Sajons
+	1	1	1	0						
+2:02.88m
+33	Tim Kramer 
+Deutschland	Tim Kramer
+	T. Kramer
+	1	1	1	0						
+2:08.86m
+34	Christopher Nikolov
+
+Deutschland	Christopher Nikolov
+	C.
+Nikolov
+	1	1	1	0
+						2:34.59m
+35	Lea Clausnitzer
+
+Deutschland	Lea Clausnitzer
+	L.
+Clausnitzer
+	1	1	0						
+	2:03.00m
+36	Matthias Schmitz
+
+Deutschland	Matthias Schmitz
+	M.
+Schmitz
+	1	1	0					
+		1:23.26m
+37	Moritz Henn
+	Deutschland
+Moritz Henn 
+M. Henn
+	1	1	0							
+54.38s
+38	Constantin Reif
+
+Deutschland	Constantin Reif
+	C. Reif
+	1	1	0						
+	41.53s
+39	Johanna Wiendl
+
+Deutschland	Johanna Wiendl
+	J. Wiendl
+	1	1	0							
+1:07.20m
+40	Miriam Leutz
+	Deutschland
+Miriam Leutz
+	M. Leutz
+	1	1	0								1:09.52m
+41	Pamela Forster
+
+Österreich	Pamela Forster
+	P. Forster
+	1	1	0							
+1:12.90m
+42	Lisa Wagner
+	Deutschland
+Lisa Wagner 
+L. Wagner
+	1	1	0							
+1:13.52m
+43	Yvonne Schemschat
+
+Deutschland	Yvonne Schemschat
+	Y.
+Schemschat
+	1	1	0				
+			1:15.35m
+44	Nils Pfannkuchen
+
+Deutschland	Nils Pfannkuchen
+	N.
+Pfannkuchen
+	1	1	0					
+		41.69s
+45	Dario Schmitz
+
+Deutschland	Dario Schmitz
+	D. Schmitz
+	1	1	0								1:15.13m
+46	Cedric Daniel
+
+Deutschland	Cedric Daniel
+	C. Daniel
+	1	0									40.03s
+47	Leoni Ostler
+	Deutschland
+Leoni Ostler
+	L. Ostler
+	1	0								
+40.87s
+48	Kristina Jost
+
+Deutschland	Kristina Jost
+	K. Jost
+	1	0									42.19s
+49	Rene Poprawa
+	Deutschland
+Rene Poprawa
+	R. Poprawa
+	1	0								
+46.41s
+50	Noa Henschel
+	Deutschland
+Noa Henschel
+	N. Henschel
+	1	0								
+47.52s
+51	Rainer Auer
+	Deutschland
+Rainer Auer 
+R. Auer
+	1	0								
+52.86s
+52	Chiara Frank
+	Deutschland
+Chiara Frank
+	C. Frank
+	1	0								
+54.99s
+53	Marcus Hofmeyer
+
+Deutschland	Marcus Hofmeyer
+	M.
+Hofmeyer
+	1	0								
+1:13.92m
+54	Thorsten Maiser
+
+Deutschland	Thorsten Maiser
+	T. Maiser
+	1	0								
+1:15.47m
+55	Sladjan Djulabic
+
+Deutschland	Sladjan Djulabic
+	S.
+Djulabic
+	1	0							
+	1:21.70m
+56	Ann-Kathrin Sajons
+
+Deutschland	Ann-Kathrin Sajons
+	A.
+Sajons
+	1	0					
+			1:47.71m
+57	Billy Bassilekin
+
+Deutschland	Billy Bassilekin
+	B.
+Bassilekin
+	1	0							
+	1:04.99m
+58	Thomas Wedig
+	Deutschland
+Thomas Wedig
+	T. Wedig
+	0										1.78s

@@ -1,0 +1,61 @@
+Name	Pfeil-Sprung	Cargo-Netz mit Stange	Domino-Weg	Trommelwirbel	Tunnel-Sprung 2.0	Himmelsleiter	Einraster	Wand	Mega-Wand	Power Tower 	Zeit
+Oliver Edelmann      	1	1	1	1	1	 1	1	1		1	2:58.95m
+Michael Streif      	1	1	1	1	1	1	 1	1		0	4:22.72m
+Alexander Haidamak      	1	1	1	1	 1	1	1	1			4:44.40m
+Stefanie Noppinger      	1	1	1	1	 1	1	1	1			4:55.55m
+Mark Degebrodt      	1	1	1	1	1	1	 1	1			5:26.20m
+Jun Kim     	1	1	1	1	1	1	0			  2:27.33m
+Joel Mattli   	1	1	1	1	1	1	0		  	1:45.50m
+Nico Hädicke      	1	1	1	1	1	1	0 			3:34.23m
+Niklas Weber   	1	1	1	1	1	1	0	  		3:47.27m
+Matthias Maag      	1	1	1	1	1	1	0 			4:02.70m
+Gary Hines   	1	1	1	1	1	0					1:35.80m
+Marco Faußer      	1	1	1	1	0				  	1:49.80m
+Dominik Staudacher      	1	1	1	1	0 					2:31.82m
+Michael Schuster      	1	1	1	1	0	  				2:47.10m
+Giulia Natale      	1	1	1	1	0				  	4:02.80m
+Norbert Schwarz      	1	1	1	1	0		  			1:18.10m
+Andie Saleh   	1	1	1	1	0						1:45.60m
+Jörg Eißmann      	1	1	1	1	0			  		2:56.50m
+Alix Arndt     	1	1	1	1	0						4:00.73m
+Ali Moussa     	1	1	1	0						  37.96s
+Tim Reuber     	1	1	1	0						  1:04.10m
+Mario Becker   	1	1	1	0							1:09.30m
+Lukas Kohl     	1	1	1	0						  1:21.00m
+Mariusz Gniatkowski-Schlüsselburg 	1	1	0							1:22.30m
+Chiara Gremes      	1	1	1	0						  1:25.90m
+Stephan Görtz      	1	1	1	0					  	1:26.40m
+Jürgen Krekel      	1	1	1	0					  	1:28.69m
+Eduard Müller      	1	1	1	0					  	1:35.73m
+Uwe Andorfer   	1	1	1	0							1:40.80m
+Roy Matthey   	1	1	1	0							1:41.30m
+Matthias Röder      	1	1	1	0				  		1:41.70m
+Davina Fisseler      	1	1	1	0				  		1:42.60m
+Jaroslaw Mostek      	1	1	1	0				  		1:44.22m
+Jens Bartsch   	1	1	1	0							2:06.70m
+Angelo Matimbe      	1	1	1	0					  	2:07.90m
+Sabrina Schlacher      	1	1	1	0		  				2:45.60m
+Viola Weiermüller      	1	1	1	0	  					3:02.63m
+Matthias Klemke      	1	1	0						  	49.84s
+Ramona Beckmann      	1	1	0						  	2:13.39m
+Heiko Burchard-Kraus      	1	1	0	  						1:34.00m
+Miriam Schmidt      	1	1	0							  1:41.20m
+Viola Riechert      	1	1	0							  51.24s
+Kathrin Kunz   	1	1	0								54.55s
+Pietro Farsetta   	1	1	0						  	1:08.80m
+Jonas Panz     	1	1	0							  28.79s
+Thomas Burrey      	1	0									16.76s
+Stefanie Ballok      	1	0								  18.04s
+Tanja König   	1	0								  18.26s
+Nafiz Yilmaz   	1	0								  41.54s
+Paul Pasytsch      	1	0									43.22s
+Dennis Recka   	1	0								  46.05s
+Christoph Thome      	1	0								  46.55s
+Patricio Cataldo      	1	0							  	50.50s
+Steffen Oppermann      	1	0						  		1:11.78m
+Caroline Brunner      	1	0							  	1:25.00m
+Louis Görtz   	0									  15.86s
+Dominik Neubig      	0										22.15s
+Alisa Govzmann      	0										24.73s
+Juliet Abayomi      	0										25:25.70m
+Thomas Libertus      	0										8.21s  

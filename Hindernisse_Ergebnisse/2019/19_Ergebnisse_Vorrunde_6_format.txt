@@ -1,0 +1,35 @@
+Name	Fünfsprung	Großer Pendel-Stamm	Chaos-Bälle	Sprungstange	Hangel-Labyrinth	Wand	Mega-Wand	Zeit
+Tobias Holz   	1	1	1	1	1	1	  2:45.72m
+Michael Rindisbacher      	1	1	1	1	1	 	1	3:25.10m
+Michael Streif      	1	1	1	1	1	1	  3:48.68m
+Max Prinz     	1	1	1	1	1	1	  4:00.79m
+Marc Neuhaus   	1	1	1	1	1	1		5:00.42m
+Patrick Sonderegger      	1	1	1	1	1	1		5:31.74m
+Manasse Heidl      	1	1	1	1	1	1		5:51.65m
+Jescher Heidl      	1	1	1	1	1		1 	6:10.20m
+Markus Herdieckerhoff      	1	1	1	1	1	1		6:26.24m
+Philipp Allgeuer      	1	1	1	1	0			
+Markus Schmoltner      	1	1	1	1	0 		
+Daniel Schmidt      	1	1	1	1	0			
+Michael Siegmund      	1	1	1	1	0			
+Philipp Boy	1	1	1	1	0			
+Florian Wohlgenannt      	1	1	1	1	0			
+Markus Malle   	1	1	1	1	0			
+Dustin Herbrüggen      	1	1	1	1	0 		
+Arash Vaezi   	1	1	1	0				
+Michael Wohlgenannt      	1	1	1	0 			
+Cindy Wagner   	1	1	1	0				
+Konstantin Schuler      	1	1	1	0	  		
+Thulasimaaran Tharumalingam 	1	1	0				
+Rita Benker   	1	1	1	0				
+Deniz Celik	1	1	1	0				
+Artur Kaufman      	1	1	1	0				
+Titos Farias   	1	1	1	0				
+Antonia Quindel      	1	1	1	0				
+Lynne Winkler      	1	1	1	0				
+Evert Cordero Rosario      	1	1	1	0				
+Mercy Von Trentini      	1	1	1	0	  		
+Aline Barre   	1	1	0					
+Philipp Koch   	1	0						
+Simone Techau      	1	0						
+Jessica Heinze      	0							  
