@@ -1,5 +1,8 @@
 # Ninja_Analyse
-In diesem kleinen Projekt werden die öffentlich zugänglichen Daten der Teilnehmer von Ninja Warrior Germany gesammelt, aufbereitet und analysiert.
-Mit wget wurden diese von der Seite "https://www.sport.de/ninja-warrior/ninja-warrior-germany/magazin/" geladen.
-Die html Dokumente wurden danach mit kleineren bash skripten (grep, sed) bearbeitet.
-In R wurden schließlich die Daten in Datensätzen zusammengefasst.
+
+Die Seite "https://www.sport.de/ninja-warrior/ninja-warrior-germany/magazin/" bietet eine großartige Darstellung der einzelnen Athleten und Ergebnisse der RTL Show. In diesem Repo werden die öffentlich zugänglichen Daten der Teilnehmer von Ninja Warrior Germany gesammelt, aufbereitet und analysiert - im Fokus stand dabei weniger das einzelne Ergebnis sondern die Übung anhand spannender Datensätze.
+Bisher verwendete Ansätze sind:
+* Webseiten mit wget downloaden
+* txt Dokumente mit kleineren bash skripten (grep, sed) bearbeiten
+* Aufbereiten von Dataframes in R
+* Aufbereiten/Darstellen/Analysieren von Daten in Dataiku
