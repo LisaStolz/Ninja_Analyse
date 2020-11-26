@@ -1,0 +1,60 @@
+	
+Oliver Edelmann      	1	1	1	1	1	1 1:42.20m
+Jan Hojer     	1	1	1	1	1	1 1:51.70m
+Mario Aigner   	1	1	1	1	1	1 2:07.20m
+Justin Rodney      	1	1	1	1	1	1	2:38.90m
+Robert Nevermann      	1	1	1	1	1	1 2:46.10m
+Liam Cook     	1	1	1	1	1	1 2:58.70m
+Mirko Künstler      	1	1	1	1	1	1 3:08.80m
+Volker Noll   	1	1	1	1	1	1 3:30.60m
+Moritz Hans   	1	1	1	1	1	1 3:50.00m
+Daniel Jung   	1	1	1	1	1	1 3:52.50m
+Alix Arndt     	1	1	1	1	1	1 5:50.70m
+Christian Hauck      	1	1	1	1	1	0	
+Sylwia Buczek   	1	1	1	1	1	0	
+Felix Wiesner      	1	1	1	1	0		
+Lukas Meyer   	1	1	1	1	0		
+Matthias Fahrig      	1	1	1	1	0		
+Axel Hower     	1	1	1	1	0		
+Andreas Giedt      	1	1	1	1	0		
+Marc Markowski      	1	1	1	1	0		
+Marius Al-Ani      	1	1	1	1	0		
+Felix Dangel   	1	1	1	0			
+Gunda Fiona Von Bachhaus         	1	1 1	0			
+Marcel Duft   	1	1	1	0			
+Daniel Hong   	1	1	1	0			
+Stefan Scherf      	1	1	1	0			
+Ciya Taycimen      	1	1	1	0			
+Philipp Hans   	1	1	1	1			
+Simon Däter   	1	1	1	0			
+Tanja Heinzer   	1	1	1	0			
+Emil Kusmirek   	1	1	1	0			
+Jan-Marco Donath      	1	1	1	0			
+John-Edouard Ehlinger      	1	1	1 0			
+Thorsten Legat      	1	1	1	0			
+Marcel Boost   	1	1	0				
+André Wesemann      	1	1	0				
+Kostja Konstantynovski      	1	1	0 			
+Daniel Tex     	1	1	0				
+Anita Junkowitsch      	1	1	0				
+Xenia Schnebel      	1	1	0				
+David Bär     	1	1	0				
+Sascha Göbel      	1	1	0				
+Julia Antonia Stransky      	1	1	0 			
+Jury Kruber   	1	1	0				
+René Weigl     	1	1	0				
+Till Adam     	1	0					
+Pierre Renz
+Charly Dankwa      	1	0					
+Tobias Diedler      	1	0					
+Konstantin Maria Zierl      	1	0	  			
+Ralf Berger   	1	0					
+Jens Lintow   	1	0					
+Carolin Lasota      	1	0					
+Mario Klintworth      	1	0					
+Evelyn Szepa   	1	0					
+Uwe Bolinius   	1	0					
+Sandra Lamla   	1	0					
+Roxana Strasser      	1	0					
+Isabell Sabellek      	0						
+Fritz Gottschalk      	0						  

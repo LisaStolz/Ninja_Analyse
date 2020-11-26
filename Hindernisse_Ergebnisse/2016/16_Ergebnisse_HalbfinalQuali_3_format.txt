@@ -1,0 +1,21 @@
+	
+Mirko Künstler      	1	1	1	1	1	51.20s
+Moritz Hans   	1	1	1	1	1	53.90s
+Jan Hojer     	1	1	1	1	1	1:07.50m
+Oliver Edelmann      	1	1	1	1	1	1:08.70m
+Christian Hauck      	1	1	1	1	1	1:15.60m
+Justin Rodney      	1	1	1	1	1 1:17.50m
+Liam Cook     	1	1	1	1	1	1:18.20m
+Daniel Jung   	1	1	1	1	1 1:19.60m
+Lukas Meyer   	1	1	1	1	1 1:23.50m
+Marius Al-Ani      	1	1	1	1	1 1:42.60m
+Mario Aigner   	1	1	1	0		
+Andreas Giedt      	1	1	1	0		
+Matthias Fahrig      	1	1	0			
+Marc Markowski      	1	0				
+Axel Hower     	1	0				
+Alix Arndt     	1	0				
+Felix Wiesner      	0					
+Volker Noll
+Robert Nevermann      	0					
+Sylwia Buczek   	0					  

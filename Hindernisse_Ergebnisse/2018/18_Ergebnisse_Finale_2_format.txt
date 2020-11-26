@@ -1,0 +1,11 @@
+	
+Alexander Wurm      	1	1	1	1	1	1	1 1	1	
+Kim Marschner      	1	1	1	1	1	1	1 1	0	
+Moritz Hans   	1	1	1	1	1	1	1	1 0	
+Benjamin Grams      	1	1	1	1	1	1	1 0		
+René Casselly      	1	1	1	1	1	1	0 		
+Alex Grunwald      	1	1	1	0						
+Max Sprenger   	1	1	1	0						
+Sladjan Djulabic      	1	1	1	0			  		
+Oliver Edelmann      	1	1	1	0						
+Michael Siegmund      	1	1	1	0			  		  

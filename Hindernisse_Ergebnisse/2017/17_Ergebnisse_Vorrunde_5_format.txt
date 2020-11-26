@@ -1,0 +1,46 @@
+	
+Manuel Werling      	1	1	1	1	1	1	2:16.90m
+Andrew Safo   	1	1	1	1	1	1 2:44.30m
+Ivo Rupena     	1	1	1	1	1	1 2:46.60m
+Yasin El Azzazy      	1	1	1	1	1	1 2:54.80m
+Simon Brunner      	1	1	1	1	1	1	2:58.60m
+Denny Henkel   	1	1	1	1	1	1 2:58.70m
+Severin Schaubeck      	1	1	1	1	1 1	3:11.20m
+Jun Kim     	1	1	1	1	1	1	3:12.50m
+Alexej Balzer      	1	1	1	1	1	1	3:12.90m
+Kevin Kürbisch      	1	1	1	1	1	1 3:23.80m
+Michael Weber      	1	1	1	1	1	1	4:25.90m
+Till Pape     	1	1	1	1	1	1 4:36.20m
+Christian Formella      	1	1	1	1	0 	
+Christian Balkheimer      	1	1	1	1 0		
+Fabian Ronjak   	1	1	1	1	0		
+Sven Hallbauer      	1	1	1	1	0		
+Marcelk Bär   	1	1	1	1	0		
+Björn Hallbauer      	1	1	1	1	0		
+Tobias Mineiro      	1	1	1	1	0		
+Richard Wiesenhütter      	1	1	1 1	0		
+Florian Apler   	1	1	1	1	0		
+Ada Theilken   	1	1	1	1	0		
+Ronald Drummond      	1	1	1	1	0		
+Max Petrat     	1	1	1	1	0		
+Felix Von Mallinckrodt      	1	1	1 1	0		
+Björn Kloster      	1	1	1	1	0		
+Frederik Miebach      	1	1	1	1	0		
+Nicki Lubowski      	1	1	1	1	0		
+Jessica Wielens      	1	1	1	1	0		
+Joel Pusitzky      	1	1	1	0			
+Robert Blankenburg      	1	1	1	0			
+Ralf Sommer   	1	1	1	0			
+Yvonne Stolze      	1	1	1	0			
+Ardian Cakay   	1	1	1	0			
+Patrick Masivi      	1	1	0				
+Marius Strumpen      	1	1	0				
+Frank Diemert      	1	1	0				
+Daniel Jung
+Mario Capun
+Licinia Greber      	1	0					
+Dennis Roßmannek      	1	0					
+Laura Winterling      	1	0					
+Sophia Große      	1	0					
+Sarah Kopp     	1	0					
+Jens Impelmann      	0						  

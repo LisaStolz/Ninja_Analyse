@@ -1,0 +1,60 @@
+	
+Benjamin Grams      	1	1	1	1	1	1	1:24.40m
+Nico Krüger   	1	1	1	1	1	1 2:31.20m
+Patrick Sonderegger      	1	1	1	1 1	1	2:31.80m
+David Wollschläger      	1	1	1	1 1	1	2:39.50m
+Luca Polaschke      	1	1	1	1	1	1	2:43.20m
+Bastian Binz   	1	1	1	1	1	1 2:48.50m
+Daniel Gerber      	1	1	1	1	1	1	2:49.50m
+Simon Knitter      	1	1	1	1	1	1	2:52.90m
+Largun Miraky      	1	1	1	1	1	1	2:57.20m
+Hewad Miraky   	1	1	1	1	1	1 3:05.40m
+Josef Bauer   	1	1	1	1	1	1 3:12.70m
+Patrick Masivi      	1	1	1	1	1	1	4:38.40m
+Jerome Michels      	1	1	1	1	1	0	
+Thorsten Michels      	1	1	1	1	1	0	
+Thomas Brüsewitz      	1	1	1	1	0		
+Yves Meyer     	1	1	1	1	0		
+George Yousef      	1	1	1	1	0		
+Tim Wacker     	1	1	1	0			
+Viktor Brüsewitz      	1	1	1	0			
+David Dietrich      	1	1	1	0			
+Constantin Motzigemba      	1	1	1 0			
+Robin Wolfinger      	1	1	1	0			
+Amelie Hundrieser      	1	1	1	0			
+Cora Robinson-Werner      	1	1	1	0 		
+Martina Schneberger      	1	1	1	0 		
+Yasmin Faslija      	1	1	1	0			
+Nadine Freitag      	1	1	1	0			
+Ulfert Andres      	1	1	0				
+Nicole Biolik      	1	1	0				
+Bertrand Mbi   	1	1	0				
+Kristina Ponomareva      	1	1	0				
+David Binninger      	1	1	0				
+Ralph Breit   	1	1	0				
+Julian Prokoph      	1	1	0				
+Jan Sokolowsky      	1	1	0				
+Marvin Mitterhuber      	1	1	0				
+Konstantinos David      	1	1	0				
+Nena Buddemeier      	1	1	0				
+Michael Yusuf      	1	1	0				
+Daniel Schrader      	1	0					
+Ulf Asmussen   	1	0					
+Christian Kirstges      	1	0					
+Patrick Hauff      	1	0					
+Pascal Klein   	1	0					
+Hannes Rennau      	1	0					
+Robert Wilken      	1	0					
+Michael Neller      	1	0					
+Christian Hamer      	1	0					
+Stefan Kitzel      	1	0					
+Koray Cengiz   	1	0					
+Dominik Ferenc      	1	0					
+Maria Marinos      	1	0					
+Bettina Heiss      	1	0					
+Fadi Issa     	1	0					
+Anja Czaika   	1	0					
+Leroy Guse     	0						
+Sara Nosrati   	0						
+Sebastian Dietz      	0						
+Dana Ferencova      	0						  

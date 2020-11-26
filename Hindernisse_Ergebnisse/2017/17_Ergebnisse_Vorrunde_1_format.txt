@@ -1,0 +1,55 @@
+	
+Benjamin Grams      	1	1	1	1	1	1	1 1	1	2:25.50m
+Oliver Edelmann      	1	1	1	1	1	1 1	1	1	2:48.00m
+Viktor Brüsewitz      	1	1	1	1	1 1	1	1	1	3:04.40m
+René Casselly      	1	1	1	1	1	1	1 1	1	3:06.50m
+Alex Grunwald      	1	1	1	1	1	1	1 1	1	3:12.80m
+Max Sprenger   	1	1	1	1	1	1	1	1 1	3:20.50m
+Daniel Gerber      	1	1	1	1	1	1	1 1	1	3:40.70m
+Moritz Hans   	1	1	1	1	1	1	1	1 1	3:41.80m
+René Börner   	1	1	1	1	1	1	1	1 1	3:46.00m
+Johannes Veh   	1	1	1	1	1	1	1	1 1	3:48.20m
+Mirko Künstler      	1	1	1	1	1	1 1	1	1	3:48.80m
+Alexander Averdunk      	1	1	1	1	1 1	1	1	1	3:49.40m
+Alexander Wurm      	1	1	1	1	1	1	1 1	1	3:49.70m
+Michael Rindisbacher      	1	1	1	1 1	1	1	1	1	3:54.50m
+Julius Malassa      	1	1	1	1	1	1	1 1	1	4:05.20m
+Kevin Kürbisch      	1	1	1	1	1	1 1	1	1	4:05.50m
+Sladjan Djulabic      	1	1	1	1	1	1 1	1	1	4:12.90m
+Johannes Schwitzgebel      	1	1	1 1	1	1	1	1	1	4:15.80m
+Moritz Feuchtmeir      	1	1	1	1	1 1	1	1	1	4:17.40m
+Simon Brunner      	1	1	1	1	1	1	1 1	1	4:19.10m
+Yasin El Azzazy      	1	1	1	1	1	1 1	1	1	4:19.10m
+Sebastian Wicke      	1	1	1	1	1	1 1	1	1	4:24.00m
+Daniel Decker      	1	1	1	1	1	1	1 1	1	4:44.10m
+Maximilian Brunner      	1	1	1	1	1 1	1	1	1	5:00.80m
+Gary Hines   	1	1	1	1	1	1	1	1	1 5:01.70m
+Marvin Mitterhuber      	1	1	1	1	1 1	1	1	1	5:06.40m
+Herwig Natmessnig      	1	1	1	1	1 1	1	1	1	5:08.40m
+David Wollschläger      	1	1	1	1 1	1	1	1	1	5:21.50m
+Bahier Ahmad   	1	1	1	1	1	1	1	1 1	5:39.40m
+Thanh Nguyen   	1	1	1	1	1	1	1	1 1	6:18.20m
+Denny Henkel   	1	1	1	1	1	1	1	0 	
+Stefan Schäfer      	1	1	1	1	1	0 			
+Manuel Werling      	1	1	1	1	0					
+Tony Tu     	1	1	1	1	0					
+Moritz Winkler      	1	1	1	1	0					
+Ivo Rupena     	1	1	1	1	0					
+Philipp Van der Grinten         	1	1 1	1	0					
+Christoph Walchhofer      	1	1	1	0 					
+Philipp Hans   	1	1	0							
+Thomas Ludwig      	1	1	0							
+Marcel Groß   	1	1	0							
+Daniel Brinkschröder      	1	1	0 						
+Christian Balkheimer      	1	1	0	  					
+Veselin Angelov      	1	1	0							
+Pascal Probst      	1	1	0							
+Sven Gedike   	1	1	0							
+Sven Hallbauer      	1	1	0							
+Joh-A Kpalete      	1	1	0							
+Christian Harmat   	1	0								
+Lukas Hunecker      	1	0								
+Luca Flögel   	1	0								
+Florian Polsterer      	1	0								
+Sabri Kabdani      	1	0								
+Fedja Gerke   	1	0								  

@@ -1150,7 +1150,7 @@ Astrid Sibon, 1993-06-15, 164, 63, Niederlande, Niederlande,,https://s.hs-data.c
 Pascal Siffert, 1988-06-25, 174, 72, Deutschland, Deutschland,,https://s.hs-data.com/gfx/person/m/686756.jpg
 Artur Sommer, 1993-06-13, 176, 77, Deutschland, Deutschland,,https://s.hs-data.com/gfx/person/m/686800.jpg
 Rene Sperlich, 1994-09-30, 173, 72, Deutschland, Deutschland,,https://s.hs-data.com/gfx/person/m/686852.jpg
-Roy Sperlich, 1995-12-29, 180, 7, Deutschland, Deutschland,,https://s.hs-data.com/gfx/person/m/686851.jpg
+Roy Sperlich, 1995-12-29, 180, 70, Deutschland, Deutschland,,https://s.hs-data.com/gfx/person/m/686851.jpg
 Daniel Springer, 1984-02-27, 170, 72, Deutschland, Deutschland,,https://s.hs-data.com/gfx/person/m/686782.jpg
 Fadi Issa, 1969-10-15, 183, 105, Deutschland, Deutschland,,https://s.hs-data.com/gfx/person/m/685893.jpg
 Max Staats, 1997-01-23, 191, 88, Deutschland, Deutschland,,https://s.hs-data.com/gfx/person/m/686786.jpg
@@ -1171,11 +1171,11 @@ Mercy Von Trentini, 1995-06-18, 155, 46, Deutschland, Deutschland,,https://s.hs-
 Eric Voßhage, 1996-06-16, 179, 72, Deutschland, Deutschland,,https://s.hs-data.com/gfx/person/m/686771.jpg
 Niklas Weber, 1983-06-06, 183, 68, Deutschland, Deutschland,,https://s.hs-data.com/gfx/person/m/686740.jpg
 Isabell Weidner, 1986-04-06, 160, 55, Deutschland, Deutschland,,https://s.hs-data.com/gfx/person/m/686733.jpg
-Annette Weiss, 1968-05-24, 172, 6, Deutschland, Deutschland,,https://s.hs-data.com/gfx/person/m/686763.jpg
+Annette Weiss, 1968-05-24, 172, 60, Deutschland, Deutschland,,https://s.hs-data.com/gfx/person/m/686763.jpg
 Michel Weller, 1987-12-22, 188, 81, Deutschland, Deutschland,,https://s.hs-data.com/gfx/person/m/686684.jpg
 Dustin Williamson, 1992-06-24, 185, 85, Deutschland, Deutschland,,https://s.hs-data.com/gfx/person/m/686741.jpg
 Daniel Jung, 1983-11-16, 175, 65, Deutschland, Deutschland,,https://s.hs-data.com/gfx/person/m/686035.jpg
-Lynne Winkler, 1995-12-31, 168, 6, Deutschland, Deutschland,,https://s.hs-data.com/gfx/person/m/686820.jpg
+Lynne Winkler, 1995-12-31, 168, 60, Deutschland, Deutschland,,https://s.hs-data.com/gfx/person/m/686820.jpg
 Stephan Wirtz, 1982-01-21, 173, 65, Deutschland, Deutschland,,https://s.hs-data.com/gfx/person/m/686849.jpg
 Florian Wohlgenannt, 1998-05-29, 173, 76, Österreich, Österreich,,https://s.hs-data.com/gfx/person/m/686818.jpg
 Alexander Worgitzki, 1986-05-01, 178, 85, Deutschland, Deutschland,,https://s.hs-data.com/gfx/person/m/686790.jpg

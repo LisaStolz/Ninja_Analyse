@@ -1,0 +1,21 @@
+	
+Benjamin Grams      	1	1	1	1	1 54.80s
+Daniel Gerber      	1	1	1	1	1 1:10.90m
+Mirko Künstler      	1	1	1	1	1	1:12.90m
+Bahier Ahmad   	1	1	1	1	1 1:23.30m
+David Wollschläger      	1	1	1	1 1	1:28.00m
+Moritz Feuchtmeir      	1	1	1	1	1 1:37.50m
+Daniel Brinkschröder      	1	1	1 1	1	1:53.90m
+Thanh Nguyen   	1	1	1	1	1 2:02.60m
+Jan Decker     	1	1	1	0		
+Sebastian Schreiner      	1	1	0			
+Ranim Fallaha      	1	1	0			
+Felix Eiler
+Jannik Schrank      	1	0				
+Florian Nestmann      	0	0				
+Michael Haußmann      	0					
+David Eilenstein      	0					
+Lukas Gastl
+Florian Ghanizada      	0					
+Eric Magut     	0					
+Noah Gräf     	0					  

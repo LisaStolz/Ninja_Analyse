@@ -1,0 +1,21 @@
+	
+Thomas Ludwig      	1	1	1	1	1 57.40s
+Max Sprenger   	1	1	1	1	1 1:18.40m
+Sladjan Djulabic      	1	1	1	1	1	1:35.30m
+Sebastian Wicke      	1	1	1	1	1	1:42.20m
+Philipp Van der Grinten         	1	1 1	1	1	1:48.50m
+Sabri Kabdani      	1	1	1	0		
+Fedja Gerke   	1	1	1	0		
+Joh-A Kpalete      	1	1	1	0		
+Manuel Hennchen      	1	1	0			
+Michael Bräuer      	1	1	0			
+Colin Leathers      	1	1	0			
+Matthias Wesemann      	1	1	0			
+Felix Aurig
+Soubhi Kabdani      	1	0				
+Marcel Schäfer      	0					
+Dominik Winkel      	0					
+Christian Kirstges      	0					
+Robby Nachtigall      	0					
+Andreas Wöhle      	0					
+Steve Pucker   			0			  

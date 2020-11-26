@@ -1,0 +1,45 @@
+	
+Leon Layer     	1	1	1	1	1	1 1:38.80m
+Benedikt Sigmund      	1	1	1	1	1	1 1:43.15m
+Remo Genise   	1	1	1	1	1	1 1:46.83m
+Thomas Knab   	1	1	1	1	1	1 1:55.41m
+Christian Range      	1	1	1	1	1	1 1:56.56m
+Gero Wurm     	1	1	1	1	1	1 2:08.96m
+Sebastian Schuler      	1	1	1	1	1 1	2:10.07m
+Jescher Heidl      	1	1	1	1	1	1	2:15.49m
+Christian Kirstges      	1	1	1	1	1 1	2:17.92m
+Maximilian Graf      	1	1	1	1	1	1 2:19.38m
+Stephan Spingler      	1	1	1	1	1	1 2:29.98m
+Jermaine Martin      	1		1	1	1	1	2:40.80m
+Timo Seifried      	1	1	1	1	1	1	2:42.98m
+Mohamed El-Zein      	1	1	1	1	1	1 2:46.04m
+Peer Lück     	1	1	1	1	1	1 2:48.01m
+Arleen Schüßler      	1	1	1	1	1 1	2:59.46m
+Benjamin Reichmann      	1	1	1	1	1 1	3:06.91m
+Andrew Safo   	1	1	1	1	1	1 3:12.73m
+Jacek Romanowski      	1	1	1	1	0		
+Simon Sielemann      	1	1	1	1	0		
+Jan-Hauke Waibl      	1	1	1	1	0		
+Ada Theilken   	1	1	1	1	0		
+Lars Bugdahn   	1	1	1	1	0		
+Ali Moussa     	1	1	1	1	0		
+Akan Akyildiz      	1	1	1	1	0		
+Sven Weber     	1	1	1	1	0		
+Alexander Wilhelm      	1	1	1	0			
+Christopher Sloan      	1	1	1	0			
+Jan Gudde     	1	1	1	0			
+Lisa Marie Buckwitz      	1	1	1	0 		
+Manasse Heidl      	1	1	1	0			
+Ema Cada     	1	1	0				
+Michael Spingler      	1	1	0				
+Katharina Kammeyer      	1	1	0				
+Evelyn Ludwig      	1	1	0				
+Mia Manojlovic      	1	1	0				
+Kien Do     	1	0					
+Colin Leathers      	1	0					
+Maximilian Kessler      	1	0					
+Marie Prüßing      	1	0					
+Melanie Tischler      	1	0					
+Pascal Ricken      	1	0					
+Gabriel Tille      	0						
+Angelo Höfele      	0						  

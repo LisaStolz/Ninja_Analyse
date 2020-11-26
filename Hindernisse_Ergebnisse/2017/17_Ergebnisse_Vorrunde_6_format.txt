@@ -1,0 +1,47 @@
+	
+Daniel Gerber      	1	1	1	1	1	1	1:19.90m
+Benjamin Grams      	1	1	1	1	1	1	1:40.90m
+Moritz Feuchtmeir      	1	1	1	1	1 1	1:42.50m
+Eric Magut     	1	1	1	1	1	1 1:58.30m
+David Wollschläger      	1	1	1	1 1	1	2:20.00m
+Florian Nestmann      	1	1	1	1	1	1 2:52.60m
+Ranim Fallaha      	1	1	1	1	1	0	
+Michael Haußmann      	1	1	1	1	1 0	
+Bahier Ahmad   	1	1	1	1	0		
+David Eilenstein      	1	1	1	1	0		
+Lukas Gastl   	1	1	1	1	0		
+Mirko Künstler      	1	1	1	1	0		
+Daniel Brinkschröder      	1	1	1 1	0		
+Sebastian Schreiner      	1	1	1	1 0		
+Florian Ghanizada      	1	1	1	1	0		
+Noah Gräf     	1	1	1	1	0		
+Felix Eiler   	1	1	1	1	0		
+Thanh Nguyen   	1	1	1	1	0		
+Jannik Schrank      	1	1	1	1	0		
+Jan Decker     	1	1	1	1	0		
+Tobias Löffler      	1	1	1	1	0		
+David Burnell   	1	1	1	1	0		
+Simon Knitter      	1	1	1	1	0		
+Marco Augustin   	1	1	1	1	0		
+Nico Freiherr von Lerchenfeld         
+1	1	1	0		
+Lukas Bacher   	1	1	1	1	0		
+Selina Huber   	1	1	1	1	0		
+Ingo Rasch     	1	1	1	1	0		
+Sebastian Pöschl      	1	1	1	0			
+René Brockmüller      	1	1	1	0			
+Viola Riechert      	1	1	1	0			
+Tobias Hofmann      	1	1	0				
+Rainer Höpfler      	1	1	0				
+Daniela Baumann   	1	1	0				
+Manuel Krauthausen      	1	0					
+Katharina Deltow      	1	0					
+Jessica Bertermann      	1	0					
+Yasmin Galati      	1	0					
+Marina Krause      	1	0					
+Andrej Mangold      	1	0					
+Maresa Kassel      	1	0					
+Marko Schrank      	1	0					
+Ralf Köhn     	1	0					
+Hans-Peter Wimmer      	1	0					
+Christoph Reimers      	1	0					  

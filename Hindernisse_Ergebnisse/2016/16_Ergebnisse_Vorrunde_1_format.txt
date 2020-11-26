@@ -1,0 +1,60 @@
+	
+Sladjan Djulabic      	1	1	1	1	1	1 1:14.80m
+Max Sprenger   	1	1	1	1	1	1 1:24.00m
+Johannes Frotschnig      	1	1	1	1 1	1	1:35.90m
+Manuel Werling      	1	1	1	1	1	1	1:45.10m
+Andreas Wöhle      	1	1	1	1	1		1:49.60m
+Patrick Garenfeld      	1	1	1	1	1 1	1:53.00m
+Kevin Kapelski      	1	1	1	1	1	1	1:58.30m
+Dennis Kubon   	1	1	1	1	1	1 2:04.60m
+The-Huy Giang      	1	1	1	1	1	1	2:10.70m
+Patricio Escher      	1	1	1	1	1	1 2:20.30m
+Mirco Osting   	1	1	1	1	1	1 2:27.60m
+Lukas Vernaldi      	1	1	1	1	1	1	2:33.90m
+Herwig Natmessnig      	1	1	1	1	1 1	2:35.00m
+Alon Gabbay   	1	1	1	1	1	1 2:36.00m
+Peter Bruckmüller      	1	1	1	1	1 1	2:46.10m
+Bertolt Schirmacher      	1	1	1	1 1	1	2:46.40m
+Jakob Draeger      	1	1	1	1	1	1	2:47.10m
+Bengt-Hjalte Mader      	1	1	1	1	1 1	3:07.10m
+Dennis Seibel      	1	1	1	1	1	0	
+Mia Manojlovic      	1	1	1	1	1	0	
+Malin Pettersson      	1	1	1	1	1	0	
+Robert Maaser      	1	1	1	1	0		
+Michael Nickels      	1	1	1	1	0		
+Viola Riechert      	1	1	1	1	0		
+Marcus Bay     	1	1	1	0			
+Michael Bräuer      	1	1	1	0			
+Luke Schaepers      	1	1	1	0			
+Johann Eichholz      	1	1	1	0			
+Arianit Rama   	1	1	1	0			
+Minh Vu     	1	1	1	0			
+Lorenzo Chimenti      	1	1	0	0			
+Philipp Stehler      	1	1	1	0			
+Philipp Zierl      	1	1	1	0			
+Ademir Memic   	1	1	0				
+John Jennessen      	1	1	0				
+Danica Schön      	1	1	0				
+Holger Gugg
+Boris Schwarz      	1	1	0				
+Nina Kapitain      	1	1	0				
+Janina Schön      	1	1	0				
+Christoph Birkner      	1	0					
+Paul Schall   	1	0					
+Benjamin Melzer      	1	0					
+Johannes Lau   	1	0					
+Desireé Rieger      	1	0					
+Rene Poprawa   	1	0					
+Elisabeth Scholl      	1	0					
+Nikolai Pourraki      	1	0					
+Nathalie Schmidt      	1	0					
+Jaqueline Mäuser      	1	0					
+Dennis Henschel      	1	0					
+Ricardo Giehl      	1	0					
+Dennis Schumacher      	0						
+Patrik Schultheis      	0						
+René Ortner
+Florian Bittner      	0						
+Sandra Jung
+Nicole Wesner      	0						
+Waldemar Zimbelmann      	0						  

@@ -1,0 +1,44 @@
+	
+Julius Malassa      	1	1	1	1	1	1	1:40.12m
+Moritz Hans   	1	1	1	1	1	1 1:45.53m
+Gary Hines   	1	1	1	1	1	1 1:53.09m
+Philipp Boy     	1	1	1	1	1	1 1:56.08m
+Michael Rindisbacher      	1	1	1	1 1	1	2:07.59m
+Simon Brunner      	1	1	1	1	1	1	2:19.73m
+Tobias Blothe      	1	1	1	1	1	1	2:33.07m
+Chris Konushevci      	1	1	1	1	1	1 2:44.52m
+Eren Eski     	1	1	1	1	1	1 3:06.27m
+Marvin Mitterhuber      	1	1	1	1	1 1	3:13.78m
+Dennis Leiber      	1	1	1	1	1	1	3:43.64m
+Roman Rindisbacher      	1	1	1	1	1 1	4:16.74m
+Thomas Rindisbacher      	1	1	1	1 0		
+Tim Barela     	1	1	1	1	0		
+Hassib-Can Pektas      	1	1	1	1	0		
+Michael Wohlgenannt      	1	1	1	1 0		
+Pascal Koronowski      	1	1	1	1	0		
+Kevin Dahms   	1	1	1	1	0		
+Manuel Osswald      	1	1	1	1	0		
+Jan Schaff     	1	1	1	1	0		
+Giovanni Ertl      	1	1	1	1	0		
+Justin Hirsemann      	1	1	1	0			
+Brix Schaumburg      	1	1	1	0			
+Benjamin Karagöz      	1	1	0				
+Ronald Drummond      	1	1	0				
+Mathieu Sychla      	1	1	0				
+Wera-Rosa Grommes      	1	1	0				
+Milan Schirowski      	1	1	0				
+Patrick Krön      	1	1	0				
+Jessica Wielens      	1	1	0				
+Michael Wachter      	1	1	0				
+Safia Flowers      	1	1	0				
+Pia Wagner     	1	1	0				
+Benjamin Kummer   	1	1	0				
+Felix Hornbostel      	1	1	0				
+Samara Bannikov      	1	1	0				
+Christina Böning      	1	0					
+Rainer Leiber      	1	0					
+Klaus-Dieter Wiesner      	1	0					
+Osman Umur     	1	0					
+Bea Müller
+Yookie Budia   	0						
+Fabian Fröhlich      	0						  

@@ -1,0 +1,28 @@
+	
+Oliver Edelmann      	1	1	1	1	1	1 1	1	1	
+Simon Knitter      	1	1	1	1	1	1	1 1	0	
+Herwig Natmessnig      	1	1	1	1	1 1	1	1	0	
+Viktor Brüsewitz      	1	1	1	1	1 1	1	1	0	
+Max Sprenger   	1	1	1	1	1	1	1	1 0	
+Daniel Schmidt      	1	1	1	1	1	1	1 1	0	
+Norwin Stuffer      	1	1	1	1	1	1	1 1	0	
+Sladjan Djulabic      	1	1	1	1	1	1 1	1	0	
+Alexander Wurm      	1	1	1	1	1	1	1 0		
+Liam Cook     	1	1	1	1	1	1	1	0		
+Andreas Wöhle      	1	1	1	1	1	1	0 		
+Bertolt Schirmacher      	1	1	1	1 1	1	0			
+Tim Wacker     	1	1	1	1	0					
+Daniel Gerber      	1	1	1	1	0					
+Yannic Appel-Malchow      	1	1	1	1 0					
+Christian Balkheimer      	1	1	1	1 0					
+Largun Miraky      	1	1	1	0						
+George Yousef      	1	1	1	0						
+Luca Polaschke      	1	1	1	0						
+Moritz Hans   	1	1	1	0						
+Till Ebener   	1	1	0							
+Justin Rodney      	1	1	0							
+Jan Hojer     	1	1	0							
+The-Huy Giang      	1	1	0							
+Gary Hines   	1	1	0							
+Christian Hauck      	1	0								
+Manuel Werling      	1	0								  

@@ -1,0 +1,52 @@
+Name	Sprung-Tritte	Schwung-Bretter	Balance-Brücken	Hangel-Trommeln	Feder-Bretter	Schwung-Scheiben	Wand	Mega-Wand	Riesenrad	Doppelter Rohrschlitten mit Cargo-Netz	Zeit
+Moritz Hans   	1	1	1	1	1	1		1	1	1	7:51.40m
+Simon Brunner      	1	1	1	1	1	1		1	1	1	8:08.80m
+Lasse von Freier      	1	1	1	1	1	1	1		1	1	8:18.60m
+Christian Harmat   	1	1	1	1	1	1 	1	1	1	9:12.00m
+Krister Kröll      	1	1	1	1	1	1	1 	1	1	11:04.20m
+David Eilenstein      	1	1	1	1	1	1	1		1	0	7:12.00m
+Stefanie Noppinger      	1	1	1	1	1	1	1		1	0	8:34.30m
+Mark Degebrodt      	1	1	1	1	1	1	1 	1	0	9:13.40m
+Dennis Leiber      	1	1	1	1	1	1	1 	0		8:12.70m
+Christian Balkheimer      	1	1	1	1	1	1	1		0		7:14.10m
+Niklas Weber   	1	1	1	1	1	0			  	3:28.80m
+Jörn Kröll   	1	1	1	1	1	0			  	5:00.30m
+Jun Kim     	1	1	1	1	1	0				  2:34.10m
+Alexander Haidamak      	1	1	1	1	1	0					2:37.50m
+Joel Mattli   	1	1	1	1	1	0				  3:04.80m
+Norbert Schwarz      	1	1	1	1	1	0 				3:04.90m
+Malte Komm     	1	1	1	1	1	0					3:36.20m
+Eren Eski     	1	1	1	1	1	0					3:45.00m
+Patrick Basler      	1	1	1	1	1	0	  			3:53.40m
+Lukas Dauenheimer      	1	1	1	1	1	0					3:54.30m
+Benjamin Schmidt      	1	1	1	1	1	0 				3:56.40m
+Philipp Hans   	1	1	1	1	1	0			  	3:57.40m
+Enrico Meister      	1	1	1	1	1	0	  			4:05.40m
+Marius Holzinger      	1	1	1	1	1	0 				4:08.70m
+Markus Malle   	1	1	1	1	1	0			  	4:32.50m
+Alexander Frisch      	1	1	1	1	1	0 				6:10.10m
+Nico Hädicke      	1	1	1	1	1	0		  		3:33.50m
+Bastian Hauk   	1	1	1	1	1	0			  	3:42.20m
+Marco Faußer      	1	1	1	1	1	0		  		3:51.00m
+Julia Koch     	1	1	1	1	1	0					4:11.20m
+Milan Schirowski      	1	1	1	1	1	0 				2:59.00m
+Benedikt Last      	1	1	1	1	1	0		  		3:04.40m
+Alex Grunwald      	1	1	1	1	1	0		  		3:20.20m
+Christoph Galle      	1	1	1	1	1	0 				3:47.50m
+Stefanie Drach      	1	1	1	1	1	0	  			5:54.00m
+Stefan Angermeier      	1	1	1	0		  				3:03.10m
+Moritz Andelfinger      	1	1	1	0	  					1:50.30m
+Michael Bräuer      	1	1	1	0				  		2:00.20m
+Bérenger Florence      	1	1	1	0		  				2:11.80m
+Gary Hines   	1	1	1	0						  2:20.40m
+Dominik Staudacher      	1	1	1	0	  					2:50.40m
+Michael Schuster      	1	1	1	0			  			3:09.90m
+Tatjana Holz   	1	0								  14.86s
+Daniel Schmitt      	1	0									18.78s
+Michael Streif      	1	0									19.33s
+Matthias Maag      	1	0									27.38s
+Andrea Forstmayr      	1	0							  	38.20s
+Giulia Natale      	1	0									43.88s
+Daniel Gerber      	1	1	1	1	1	1	1 	1	1	8:14.20m
+Oliver Edelmann      	1	1	1	1	1	0 				2:53.00m
+Kim Marschner      	1	1	1	1	1	0		  		1:49.60m  
